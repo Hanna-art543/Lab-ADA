@@ -1,0 +1,2000 @@
+40000001|Ana Perez|39.91|Tarde|15|Ordinario|Ingenierias
+40000002|Luis Torres|99.19|Tarde|45|CEPREUNSA|Ingenierias
+40000003|Carlos Diaz|69.93|Manana|7|Ordinario|Sociales
+40000004|Maria Lopez|24.26|Manana|28|Ordinario|Biomedicas
+40000005|Juan Soto|94.58|Tarde|14|CEPRE 5TOS|Sociales
+40000006|Carla Flores|35.90|Tarde|31|Ordinario|Biomedicas
+40000007|Pedro Quispe|99.57|Tarde|32|CEPRE 5TOS|Biomedicas
+40000008|Lucia Ramos|42.65|Tarde|32|CEPREUNSA|Biomedicas
+40000009|Diego Mamani|5.50|Manana|10|Ordinario|Biomedicas
+40000010|Sofia Vargas|4.87|Manana|45|CEPREUNSA|Ingenierias
+40000011|Jose Condori|61.03|Tarde|27|Extraordinario|Sociales
+40000012|Valeria Huaman|64.12|Manana|3|Extraordinario|Biomedicas
+40000013|Miguel Apaza|3.31|Tarde|21|CEPREUNSA|Sociales
+40000014|Daniela Choque|53.60|Manana|3|Ordinario|Biomedicas
+40000015|Andres Paredes|33.11|Manana|29|Extraordinario|Ingenierias
+40000016|Camila Nina|17.05|Manana|17|Ordinario|Sociales
+40000017|Jorge Calla|43.13|Tarde|15|CEPREUNSA|Sociales
+40000018|Fernanda Lima|54.52|Tarde|8|Ordinario|Biomedicas
+40000019|Alonso Ticona|27.23|Tarde|29|Ordinario|Ingenierias
+40000020|Gabriela Flores|44.77|Manana|27|Ordinario|Ingenierias
+40000021|Ana Perez|83.12|Manana|41|CEPRE 5TOS|Biomedicas
+40000022|Luis Torres|40.08|Tarde|32|CEPRE 5TOS|Biomedicas
+40000023|Carlos Diaz|35.30|Manana|2|CEPREUNSA|Sociales
+40000024|Maria Lopez|34.19|Tarde|5|Extraordinario|Ingenierias
+40000025|Juan Soto|56.64|Manana|43|Extraordinario|Ingenierias
+40000026|Carla Flores|69.22|Manana|20|Ordinario|Sociales
+40000027|Pedro Quispe|37.45|Tarde|33|CEPRE 5TOS|Sociales
+40000028|Lucia Ramos|47.60|Tarde|38|CEPRE 5TOS|Ingenierias
+40000029|Diego Mamani|59.67|Tarde|7|CEPRE 5TOS|Biomedicas
+40000030|Sofia Vargas|53.41|Tarde|12|Ordinario|Sociales
+40000031|Jose Condori|2.22|Tarde|24|Extraordinario|Ingenierias
+40000032|Valeria Huaman|96.74|Tarde|36|Ordinario|Ingenierias
+40000033|Miguel Apaza|93.48|Tarde|35|CEPREUNSA|Biomedicas
+40000034|Daniela Choque|70.29|Tarde|11|CEPRE 5TOS|Biomedicas
+40000035|Andres Paredes|41.45|Tarde|26|CEPREUNSA|Biomedicas
+40000036|Camila Nina|33.05|Tarde|30|Ordinario|Sociales
+40000037|Jorge Calla|78.35|Manana|36|Extraordinario|Sociales
+40000038|Fernanda Lima|44.39|Tarde|24|CEPRE 5TOS|Sociales
+40000039|Alonso Ticona|27.99|Tarde|20|CEPREUNSA|Sociales
+40000040|Gabriela Flores|35.95|Tarde|29|CEPREUNSA|Ingenierias
+40000041|Ana Perez|36.27|Tarde|15|CEPRE 5TOS|Biomedicas
+40000042|Luis Torres|67.83|Tarde|31|Extraordinario|Biomedicas
+40000043|Carlos Diaz|5.84|Manana|10|Extraordinario|Sociales
+40000044|Maria Lopez|82.29|Tarde|34|CEPRE 5TOS|Sociales
+40000045|Juan Soto|85.24|Tarde|38|Extraordinario|Ingenierias
+40000046|Carla Flores|80.75|Tarde|38|Extraordinario|Sociales
+40000047|Pedro Quispe|45.59|Tarde|18|Ordinario|Sociales
+40000048|Lucia Ramos|11.26|Tarde|16|CEPREUNSA|Sociales
+40000049|Diego Mamani|46.51|Manana|13|CEPRE 5TOS|Ingenierias
+40000050|Sofia Vargas|81.28|Manana|9|CEPRE 5TOS|Biomedicas
+40000051|Jose Condori|29.53|Manana|20|CEPRE 5TOS|Sociales
+40000052|Valeria Huaman|13.36|Manana|14|CEPRE 5TOS|Biomedicas
+40000053|Miguel Apaza|44.67|Manana|2|CEPREUNSA|Biomedicas
+40000054|Daniela Choque|80.29|Tarde|27|Ordinario|Sociales
+40000055|Andres Paredes|95.54|Tarde|41|Extraordinario|Biomedicas
+40000056|Camila Nina|70.42|Tarde|41|Ordinario|Ingenierias
+40000057|Jorge Calla|35.57|Tarde|18|Extraordinario|Sociales
+40000058|Fernanda Lima|98.65|Tarde|41|CEPRE 5TOS|Ingenierias
+40000059|Alonso Ticona|72.04|Manana|36|Ordinario|Sociales
+40000060|Gabriela Flores|93.88|Tarde|12|CEPRE 5TOS|Ingenierias
+40000061|Ana Perez|17.13|Manana|40|CEPRE 5TOS|Sociales
+40000062|Luis Torres|84.85|Tarde|11|Ordinario|Biomedicas
+40000063|Carlos Diaz|15.74|Tarde|42|Ordinario|Sociales
+40000064|Maria Lopez|48.14|Manana|18|Ordinario|Sociales
+40000065|Juan Soto|78.97|Tarde|38|Extraordinario|Biomedicas
+40000066|Carla Flores|29.28|Manana|40|Ordinario|Sociales
+40000067|Pedro Quispe|75.40|Tarde|26|Ordinario|Ingenierias
+40000068|Lucia Ramos|3.06|Tarde|9|CEPREUNSA|Biomedicas
+40000069|Diego Mamani|24.67|Tarde|12|CEPREUNSA|Biomedicas
+40000070|Sofia Vargas|92.25|Manana|24|CEPREUNSA|Ingenierias
+40000071|Jose Condori|41.22|Tarde|27|CEPRE 5TOS|Sociales
+40000072|Valeria Huaman|37.95|Manana|23|Extraordinario|Biomedicas
+40000073|Miguel Apaza|11.15|Manana|39|CEPREUNSA|Biomedicas
+40000074|Daniela Choque|83.74|Tarde|18|Extraordinario|Biomedicas
+40000075|Andres Paredes|2.98|Tarde|7|CEPREUNSA|Ingenierias
+40000076|Camila Nina|76.23|Tarde|1|Extraordinario|Sociales
+40000077|Jorge Calla|59.94|Manana|29|Ordinario|Ingenierias
+40000078|Fernanda Lima|57.74|Manana|8|Ordinario|Sociales
+40000079|Alonso Ticona|57.79|Tarde|8|CEPRE 5TOS|Sociales
+40000080|Gabriela Flores|7.21|Tarde|45|CEPRE 5TOS|Ingenierias
+40000081|Ana Perez|8.28|Manana|7|CEPRE 5TOS|Sociales
+40000082|Luis Torres|65.96|Tarde|31|Extraordinario|Ingenierias
+40000083|Carlos Diaz|34.04|Tarde|29|CEPREUNSA|Sociales
+40000084|Maria Lopez|76.21|Tarde|6|CEPREUNSA|Sociales
+40000085|Juan Soto|72.99|Tarde|33|Ordinario|Ingenierias
+40000086|Carla Flores|20.45|Manana|17|Extraordinario|Ingenierias
+40000087|Pedro Quispe|26.46|Tarde|32|Ordinario|Biomedicas
+40000088|Lucia Ramos|0.39|Tarde|7|Ordinario|Biomedicas
+40000089|Diego Mamani|49.31|Manana|45|CEPRE 5TOS|Biomedicas
+40000090|Sofia Vargas|68.14|Manana|29|Ordinario|Ingenierias
+40000091|Jose Condori|57.79|Manana|40|Extraordinario|Ingenierias
+40000092|Valeria Huaman|22.91|Tarde|31|Ordinario|Sociales
+40000093|Miguel Apaza|25.90|Tarde|35|Extraordinario|Biomedicas
+40000094|Daniela Choque|51.70|Tarde|31|Extraordinario|Sociales
+40000095|Andres Paredes|60.81|Tarde|45|Extraordinario|Sociales
+40000096|Camila Nina|99.36|Manana|27|CEPREUNSA|Biomedicas
+40000097|Jorge Calla|87.23|Manana|14|CEPREUNSA|Sociales
+40000098|Fernanda Lima|63.20|Tarde|36|Extraordinario|Sociales
+40000099|Alonso Ticona|0.51|Manana|23|Extraordinario|Ingenierias
+40000100|Gabriela Flores|26.01|Manana|6|Ordinario|Ingenierias
+40000101|Ana Perez|85.60|Tarde|43|Ordinario|Ingenierias
+40000102|Luis Torres|93.73|Tarde|21|CEPREUNSA|Ingenierias
+40000103|Carlos Diaz|40.15|Tarde|36|Extraordinario|Ingenierias
+40000104|Maria Lopez|69.81|Manana|16|Extraordinario|Sociales
+40000105|Juan Soto|44.00|Tarde|23|CEPREUNSA|Sociales
+40000106|Carla Flores|66.18|Manana|12|CEPREUNSA|Sociales
+40000107|Pedro Quispe|6.46|Tarde|28|CEPRE 5TOS|Ingenierias
+40000108|Lucia Ramos|77.78|Manana|24|Extraordinario|Sociales
+40000109|Diego Mamani|98.07|Manana|30|CEPREUNSA|Sociales
+40000110|Sofia Vargas|10.94|Tarde|1|CEPREUNSA|Biomedicas
+40000111|Jose Condori|82.21|Manana|32|Extraordinario|Biomedicas
+40000112|Valeria Huaman|51.45|Tarde|2|Ordinario|Biomedicas
+40000113|Miguel Apaza|28.71|Manana|16|Ordinario|Ingenierias
+40000114|Daniela Choque|92.83|Tarde|35|Ordinario|Sociales
+40000115|Andres Paredes|33.65|Manana|26|CEPREUNSA|Sociales
+40000116|Camila Nina|14.59|Tarde|31|CEPREUNSA|Sociales
+40000117|Jorge Calla|68.31|Tarde|44|Extraordinario|Biomedicas
+40000118|Fernanda Lima|17.59|Tarde|30|CEPRE 5TOS|Sociales
+40000119|Alonso Ticona|98.18|Manana|7|CEPREUNSA|Biomedicas
+40000120|Gabriela Flores|72.33|Manana|9|Extraordinario|Ingenierias
+40000121|Ana Perez|22.69|Manana|45|Ordinario|Biomedicas
+40000122|Luis Torres|7.73|Tarde|17|Ordinario|Biomedicas
+40000123|Carlos Diaz|37.32|Manana|28|Ordinario|Biomedicas
+40000124|Maria Lopez|51.96|Tarde|9|CEPRE 5TOS|Sociales
+40000125|Juan Soto|16.11|Manana|43|CEPRE 5TOS|Sociales
+40000126|Carla Flores|88.20|Manana|21|Extraordinario|Sociales
+40000127|Pedro Quispe|61.55|Manana|37|Extraordinario|Ingenierias
+40000128|Lucia Ramos|81.85|Manana|22|CEPREUNSA|Biomedicas
+40000129|Diego Mamani|90.16|Tarde|25|Extraordinario|Sociales
+40000130|Sofia Vargas|13.70|Manana|7|CEPREUNSA|Ingenierias
+40000131|Jose Condori|10.02|Manana|10|CEPRE 5TOS|Ingenierias
+40000132|Valeria Huaman|17.28|Manana|44|CEPRE 5TOS|Sociales
+40000133|Miguel Apaza|93.03|Tarde|34|Extraordinario|Sociales
+40000134|Daniela Choque|96.97|Manana|31|Ordinario|Ingenierias
+40000135|Andres Paredes|90.27|Tarde|30|Ordinario|Biomedicas
+40000136|Camila Nina|39.63|Manana|9|CEPREUNSA|Biomedicas
+40000137|Jorge Calla|70.62|Tarde|18|CEPREUNSA|Sociales
+40000138|Fernanda Lima|81.48|Manana|37|Extraordinario|Biomedicas
+40000139|Alonso Ticona|69.45|Manana|11|Ordinario|Ingenierias
+40000140|Gabriela Flores|83.10|Tarde|27|CEPREUNSA|Biomedicas
+40000141|Ana Perez|17.06|Tarde|33|Extraordinario|Ingenierias
+40000142|Luis Torres|79.98|Tarde|4|CEPRE 5TOS|Sociales
+40000143|Carlos Diaz|60.28|Manana|41|CEPRE 5TOS|Biomedicas
+40000144|Maria Lopez|42.34|Manana|29|Extraordinario|Sociales
+40000145|Juan Soto|94.42|Manana|15|CEPRE 5TOS|Ingenierias
+40000146|Carla Flores|27.63|Tarde|45|Ordinario|Biomedicas
+40000147|Pedro Quispe|13.49|Tarde|29|Extraordinario|Biomedicas
+40000148|Lucia Ramos|50.35|Tarde|16|Extraordinario|Ingenierias
+40000149|Diego Mamani|50.47|Tarde|36|Ordinario|Ingenierias
+40000150|Sofia Vargas|61.36|Manana|39|CEPRE 5TOS|Sociales
+40000151|Jose Condori|60.13|Manana|11|CEPRE 5TOS|Biomedicas
+40000152|Valeria Huaman|34.71|Manana|22|Extraordinario|Ingenierias
+40000153|Miguel Apaza|58.27|Manana|45|CEPRE 5TOS|Ingenierias
+40000154|Daniela Choque|86.46|Tarde|16|Ordinario|Ingenierias
+40000155|Andres Paredes|8.19|Tarde|22|Extraordinario|Sociales
+40000156|Camila Nina|94.97|Manana|24|Extraordinario|Ingenierias
+40000157|Jorge Calla|40.97|Manana|21|Extraordinario|Biomedicas
+40000158|Fernanda Lima|52.88|Manana|18|Extraordinario|Sociales
+40000159|Alonso Ticona|92.77|Manana|23|CEPREUNSA|Biomedicas
+40000160|Gabriela Flores|57.43|Tarde|32|CEPREUNSA|Ingenierias
+40000161|Ana Perez|23.72|Tarde|8|Extraordinario|Ingenierias
+40000162|Luis Torres|99.20|Manana|16|CEPRE 5TOS|Biomedicas
+40000163|Carlos Diaz|48.27|Manana|34|Ordinario|Biomedicas
+40000164|Maria Lopez|20.73|Manana|29|CEPREUNSA|Ingenierias
+40000165|Juan Soto|7.53|Manana|12|Extraordinario|Biomedicas
+40000166|Carla Flores|73.06|Tarde|28|Ordinario|Biomedicas
+40000167|Pedro Quispe|0.96|Manana|1|CEPREUNSA|Ingenierias
+40000168|Lucia Ramos|9.52|Manana|10|Extraordinario|Biomedicas
+40000169|Diego Mamani|90.24|Tarde|35|CEPRE 5TOS|Ingenierias
+40000170|Sofia Vargas|54.29|Tarde|29|CEPREUNSA|Biomedicas
+40000171|Jose Condori|57.26|Tarde|21|Extraordinario|Sociales
+40000172|Valeria Huaman|73.68|Tarde|26|CEPRE 5TOS|Biomedicas
+40000173|Miguel Apaza|84.67|Tarde|16|Extraordinario|Sociales
+40000174|Daniela Choque|52.11|Manana|12|CEPRE 5TOS|Sociales
+40000175|Andres Paredes|49.64|Manana|19|CEPRE 5TOS|Sociales
+40000176|Camila Nina|59.26|Manana|37|Ordinario|Biomedicas
+40000177|Jorge Calla|95.12|Manana|27|Extraordinario|Sociales
+40000178|Fernanda Lima|3.57|Tarde|42|Ordinario|Biomedicas
+40000179|Alonso Ticona|70.02|Tarde|27|Extraordinario|Biomedicas
+40000180|Gabriela Flores|0.73|Tarde|41|Extraordinario|Ingenierias
+40000181|Ana Perez|95.06|Tarde|32|Ordinario|Ingenierias
+40000182|Luis Torres|40.82|Tarde|5|Extraordinario|Biomedicas
+40000183|Carlos Diaz|75.51|Tarde|8|CEPRE 5TOS|Ingenierias
+40000184|Maria Lopez|39.63|Manana|8|Extraordinario|Biomedicas
+40000185|Juan Soto|84.74|Tarde|6|CEPREUNSA|Ingenierias
+40000186|Carla Flores|96.75|Tarde|37|CEPREUNSA|Sociales
+40000187|Pedro Quispe|95.30|Tarde|43|CEPREUNSA|Biomedicas
+40000188|Lucia Ramos|12.47|Manana|10|CEPREUNSA|Ingenierias
+40000189|Diego Mamani|28.55|Tarde|25|CEPREUNSA|Ingenierias
+40000190|Sofia Vargas|50.70|Manana|5|CEPRE 5TOS|Sociales
+40000191|Jose Condori|36.19|Tarde|28|Ordinario|Ingenierias
+40000192|Valeria Huaman|26.77|Manana|44|Ordinario|Biomedicas
+40000193|Miguel Apaza|92.02|Tarde|2|CEPREUNSA|Sociales
+40000194|Daniela Choque|3.35|Tarde|39|Extraordinario|Ingenierias
+40000195|Andres Paredes|54.86|Manana|10|CEPREUNSA|Sociales
+40000196|Camila Nina|2.78|Tarde|10|CEPRE 5TOS|Ingenierias
+40000197|Jorge Calla|64.30|Manana|1|CEPREUNSA|Ingenierias
+40000198|Fernanda Lima|96.55|Manana|6|CEPREUNSA|Ingenierias
+40000199|Alonso Ticona|14.30|Manana|32|CEPREUNSA|Ingenierias
+40000200|Gabriela Flores|30.16|Tarde|27|Ordinario|Ingenierias
+40000201|Ana Perez|65.22|Tarde|38|Ordinario|Biomedicas
+40000202|Luis Torres|63.30|Tarde|7|CEPRE 5TOS|Sociales
+40000203|Carlos Diaz|56.46|Tarde|6|CEPREUNSA|Sociales
+40000204|Maria Lopez|14.77|Tarde|3|Ordinario|Sociales
+40000205|Juan Soto|85.36|Tarde|16|Extraordinario|Biomedicas
+40000206|Carla Flores|30.77|Manana|30|CEPRE 5TOS|Ingenierias
+40000207|Pedro Quispe|4.68|Tarde|34|Ordinario|Ingenierias
+40000208|Lucia Ramos|56.07|Manana|1|Extraordinario|Sociales
+40000209|Diego Mamani|83.11|Manana|9|CEPRE 5TOS|Ingenierias
+40000210|Sofia Vargas|3.56|Manana|41|CEPREUNSA|Ingenierias
+40000211|Jose Condori|68.93|Tarde|1|Ordinario|Ingenierias
+40000212|Valeria Huaman|83.80|Tarde|40|Extraordinario|Sociales
+40000213|Miguel Apaza|92.62|Tarde|45|Extraordinario|Sociales
+40000214|Daniela Choque|9.85|Tarde|20|Extraordinario|Biomedicas
+40000215|Andres Paredes|36.82|Tarde|7|Extraordinario|Biomedicas
+40000216|Camila Nina|54.30|Tarde|17|Extraordinario|Biomedicas
+40000217|Jorge Calla|31.02|Tarde|44|CEPREUNSA|Biomedicas
+40000218|Fernanda Lima|48.41|Manana|2|CEPREUNSA|Biomedicas
+40000219|Alonso Ticona|95.18|Manana|12|CEPREUNSA|Biomedicas
+40000220|Gabriela Flores|94.11|Manana|24|Ordinario|Ingenierias
+40000221|Ana Perez|75.88|Tarde|11|Ordinario|Ingenierias
+40000222|Luis Torres|46.23|Tarde|34|Ordinario|Biomedicas
+40000223|Carlos Diaz|27.49|Manana|34|Extraordinario|Ingenierias
+40000224|Maria Lopez|36.64|Manana|37|CEPRE 5TOS|Sociales
+40000225|Juan Soto|67.45|Tarde|34|CEPRE 5TOS|Sociales
+40000226|Carla Flores|98.89|Tarde|9|Ordinario|Biomedicas
+40000227|Pedro Quispe|41.40|Manana|1|CEPRE 5TOS|Ingenierias
+40000228|Lucia Ramos|61.51|Tarde|31|CEPREUNSA|Ingenierias
+40000229|Diego Mamani|93.09|Tarde|28|Extraordinario|Sociales
+40000230|Sofia Vargas|86.42|Tarde|44|Ordinario|Biomedicas
+40000231|Jose Condori|72.34|Manana|34|CEPRE 5TOS|Biomedicas
+40000232|Valeria Huaman|39.62|Tarde|34|Extraordinario|Biomedicas
+40000233|Miguel Apaza|22.51|Tarde|7|CEPRE 5TOS|Sociales
+40000234|Daniela Choque|2.37|Tarde|23|CEPRE 5TOS|Sociales
+40000235|Andres Paredes|65.82|Manana|5|Ordinario|Sociales
+40000236|Camila Nina|65.44|Manana|39|Extraordinario|Biomedicas
+40000237|Jorge Calla|67.55|Manana|5|CEPREUNSA|Ingenierias
+40000238|Fernanda Lima|15.11|Manana|17|CEPRE 5TOS|Ingenierias
+40000239|Alonso Ticona|72.32|Manana|36|Ordinario|Biomedicas
+40000240|Gabriela Flores|41.93|Tarde|15|CEPRE 5TOS|Sociales
+40000241|Ana Perez|60.26|Manana|13|Ordinario|Sociales
+40000242|Luis Torres|45.96|Manana|34|Ordinario|Ingenierias
+40000243|Carlos Diaz|38.51|Tarde|26|CEPREUNSA|Sociales
+40000244|Maria Lopez|54.73|Tarde|25|Ordinario|Ingenierias
+40000245|Juan Soto|49.24|Tarde|18|CEPREUNSA|Sociales
+40000246|Carla Flores|44.66|Tarde|16|Ordinario|Ingenierias
+40000247|Pedro Quispe|82.97|Tarde|31|Ordinario|Sociales
+40000248|Lucia Ramos|39.51|Tarde|5|Extraordinario|Ingenierias
+40000249|Diego Mamani|96.87|Tarde|36|Ordinario|Sociales
+40000250|Sofia Vargas|65.42|Manana|44|CEPREUNSA|Ingenierias
+40000251|Jose Condori|28.63|Manana|43|Extraordinario|Sociales
+40000252|Valeria Huaman|36.67|Manana|34|CEPREUNSA|Ingenierias
+40000253|Miguel Apaza|45.27|Manana|13|Extraordinario|Ingenierias
+40000254|Daniela Choque|58.25|Tarde|43|Extraordinario|Sociales
+40000255|Andres Paredes|81.36|Tarde|13|CEPREUNSA|Biomedicas
+40000256|Camila Nina|85.37|Manana|28|Ordinario|Ingenierias
+40000257|Jorge Calla|69.69|Manana|24|Extraordinario|Biomedicas
+40000258|Fernanda Lima|49.60|Manana|20|CEPREUNSA|Biomedicas
+40000259|Alonso Ticona|49.58|Tarde|29|CEPREUNSA|Sociales
+40000260|Gabriela Flores|47.13|Tarde|13|CEPREUNSA|Sociales
+40000261|Ana Perez|18.69|Tarde|19|CEPREUNSA|Ingenierias
+40000262|Luis Torres|81.17|Tarde|12|CEPREUNSA|Ingenierias
+40000263|Carlos Diaz|29.46|Manana|19|CEPREUNSA|Sociales
+40000264|Maria Lopez|11.88|Tarde|12|Ordinario|Biomedicas
+40000265|Juan Soto|67.92|Tarde|26|Ordinario|Biomedicas
+40000266|Carla Flores|98.12|Tarde|38|Extraordinario|Biomedicas
+40000267|Pedro Quispe|2.61|Tarde|1|Extraordinario|Biomedicas
+40000268|Lucia Ramos|65.46|Tarde|28|CEPRE 5TOS|Biomedicas
+40000269|Diego Mamani|63.80|Manana|11|Extraordinario|Biomedicas
+40000270|Sofia Vargas|65.96|Manana|35|CEPREUNSA|Ingenierias
+40000271|Jose Condori|26.85|Manana|31|CEPREUNSA|Biomedicas
+40000272|Valeria Huaman|62.56|Manana|19|CEPREUNSA|Ingenierias
+40000273|Miguel Apaza|33.08|Manana|24|Extraordinario|Biomedicas
+40000274|Daniela Choque|11.38|Manana|21|CEPREUNSA|Sociales
+40000275|Andres Paredes|17.97|Tarde|10|CEPRE 5TOS|Ingenierias
+40000276|Camila Nina|4.00|Tarde|24|CEPREUNSA|Sociales
+40000277|Jorge Calla|27.64|Manana|17|CEPREUNSA|Sociales
+40000278|Fernanda Lima|93.97|Tarde|27|CEPRE 5TOS|Ingenierias
+40000279|Alonso Ticona|72.34|Tarde|15|CEPRE 5TOS|Ingenierias
+40000280|Gabriela Flores|89.73|Manana|9|CEPREUNSA|Ingenierias
+40000281|Ana Perez|99.80|Manana|7|Extraordinario|Biomedicas
+40000282|Luis Torres|65.53|Manana|11|CEPREUNSA|Biomedicas
+40000283|Carlos Diaz|35.61|Manana|44|CEPREUNSA|Ingenierias
+40000284|Maria Lopez|71.93|Manana|19|Ordinario|Sociales
+40000285|Juan Soto|97.16|Tarde|12|Ordinario|Ingenierias
+40000286|Carla Flores|64.25|Tarde|3|CEPRE 5TOS|Ingenierias
+40000287|Pedro Quispe|84.98|Manana|43|CEPRE 5TOS|Sociales
+40000288|Lucia Ramos|61.68|Tarde|4|Extraordinario|Ingenierias
+40000289|Diego Mamani|28.13|Tarde|10|Ordinario|Sociales
+40000290|Sofia Vargas|6.28|Manana|6|Extraordinario|Biomedicas
+40000291|Jose Condori|39.71|Manana|14|CEPRE 5TOS|Sociales
+40000292|Valeria Huaman|96.05|Tarde|22|Extraordinario|Ingenierias
+40000293|Miguel Apaza|25.23|Tarde|35|CEPRE 5TOS|Sociales
+40000294|Daniela Choque|12.32|Tarde|20|CEPRE 5TOS|Biomedicas
+40000295|Andres Paredes|9.26|Manana|37|CEPREUNSA|Sociales
+40000296|Camila Nina|5.25|Tarde|36|Ordinario|Sociales
+40000297|Jorge Calla|15.47|Tarde|24|CEPRE 5TOS|Ingenierias
+40000298|Fernanda Lima|53.49|Manana|32|CEPREUNSA|Biomedicas
+40000299|Alonso Ticona|62.13|Manana|42|CEPREUNSA|Biomedicas
+40000300|Gabriela Flores|72.91|Manana|1|Ordinario|Biomedicas
+40000301|Ana Perez|4.67|Tarde|23|CEPRE 5TOS|Sociales
+40000302|Luis Torres|48.46|Manana|8|CEPREUNSA|Ingenierias
+40000303|Carlos Diaz|84.37|Manana|9|Extraordinario|Sociales
+40000304|Maria Lopez|15.79|Manana|25|CEPREUNSA|Sociales
+40000305|Juan Soto|89.42|Tarde|31|CEPRE 5TOS|Ingenierias
+40000306|Carla Flores|93.99|Manana|30|Extraordinario|Ingenierias
+40000307|Pedro Quispe|55.76|Manana|22|Ordinario|Ingenierias
+40000308|Lucia Ramos|48.17|Manana|29|Extraordinario|Sociales
+40000309|Diego Mamani|46.08|Manana|45|Ordinario|Ingenierias
+40000310|Sofia Vargas|17.33|Tarde|27|Ordinario|Ingenierias
+40000311|Jose Condori|77.91|Manana|38|CEPREUNSA|Biomedicas
+40000312|Valeria Huaman|11.94|Manana|14|Extraordinario|Sociales
+40000313|Miguel Apaza|17.37|Manana|18|Extraordinario|Sociales
+40000314|Daniela Choque|70.78|Tarde|34|CEPREUNSA|Ingenierias
+40000315|Andres Paredes|5.48|Tarde|42|Ordinario|Biomedicas
+40000316|Camila Nina|58.42|Tarde|18|CEPREUNSA|Sociales
+40000317|Jorge Calla|56.96|Tarde|19|Extraordinario|Biomedicas
+40000318|Fernanda Lima|7.30|Manana|31|Ordinario|Sociales
+40000319|Alonso Ticona|88.75|Tarde|28|CEPREUNSA|Ingenierias
+40000320|Gabriela Flores|52.78|Tarde|41|CEPREUNSA|Biomedicas
+40000321|Ana Perez|65.23|Tarde|42|CEPRE 5TOS|Sociales
+40000322|Luis Torres|61.83|Tarde|27|CEPRE 5TOS|Ingenierias
+40000323|Carlos Diaz|68.25|Manana|38|CEPREUNSA|Biomedicas
+40000324|Maria Lopez|84.27|Tarde|27|CEPRE 5TOS|Sociales
+40000325|Juan Soto|29.23|Manana|24|Extraordinario|Ingenierias
+40000326|Carla Flores|50.86|Tarde|34|CEPRE 5TOS|Ingenierias
+40000327|Pedro Quispe|31.00|Tarde|8|Extraordinario|Biomedicas
+40000328|Lucia Ramos|18.55|Tarde|28|CEPRE 5TOS|Biomedicas
+40000329|Diego Mamani|1.25|Tarde|23|CEPREUNSA|Biomedicas
+40000330|Sofia Vargas|38.12|Manana|10|Ordinario|Sociales
+40000331|Jose Condori|35.71|Manana|23|Ordinario|Ingenierias
+40000332|Valeria Huaman|50.56|Manana|26|Ordinario|Sociales
+40000333|Miguel Apaza|72.44|Tarde|38|Ordinario|Sociales
+40000334|Daniela Choque|4.77|Tarde|37|CEPRE 5TOS|Ingenierias
+40000335|Andres Paredes|70.58|Tarde|35|CEPREUNSA|Biomedicas
+40000336|Camila Nina|16.35|Manana|11|Extraordinario|Biomedicas
+40000337|Jorge Calla|14.16|Tarde|24|CEPREUNSA|Ingenierias
+40000338|Fernanda Lima|8.60|Tarde|5|Ordinario|Biomedicas
+40000339|Alonso Ticona|46.97|Tarde|45|CEPREUNSA|Ingenierias
+40000340|Gabriela Flores|78.41|Manana|24|CEPRE 5TOS|Sociales
+40000341|Ana Perez|84.08|Tarde|45|CEPRE 5TOS|Sociales
+40000342|Luis Torres|62.39|Manana|10|CEPRE 5TOS|Biomedicas
+40000343|Carlos Diaz|47.07|Manana|6|Extraordinario|Biomedicas
+40000344|Maria Lopez|27.65|Tarde|19|Extraordinario|Ingenierias
+40000345|Juan Soto|58.87|Tarde|5|CEPREUNSA|Ingenierias
+40000346|Carla Flores|46.62|Manana|33|Extraordinario|Sociales
+40000347|Pedro Quispe|95.11|Manana|18|CEPRE 5TOS|Sociales
+40000348|Lucia Ramos|5.63|Manana|7|Extraordinario|Ingenierias
+40000349|Diego Mamani|75.61|Manana|29|CEPRE 5TOS|Biomedicas
+40000350|Sofia Vargas|1.39|Manana|24|Ordinario|Biomedicas
+40000351|Jose Condori|26.80|Manana|26|CEPREUNSA|Sociales
+40000352|Valeria Huaman|90.32|Manana|42|Extraordinario|Sociales
+40000353|Miguel Apaza|75.73|Tarde|7|CEPREUNSA|Biomedicas
+40000354|Daniela Choque|90.53|Manana|22|CEPRE 5TOS|Ingenierias
+40000355|Andres Paredes|21.67|Manana|37|CEPRE 5TOS|Ingenierias
+40000356|Camila Nina|67.53|Manana|39|CEPRE 5TOS|Ingenierias
+40000357|Jorge Calla|54.74|Tarde|30|Extraordinario|Ingenierias
+40000358|Fernanda Lima|29.23|Manana|17|Ordinario|Ingenierias
+40000359|Alonso Ticona|88.44|Tarde|24|CEPREUNSA|Biomedicas
+40000360|Gabriela Flores|14.42|Manana|36|CEPRE 5TOS|Ingenierias
+40000361|Ana Perez|97.64|Tarde|2|Extraordinario|Sociales
+40000362|Luis Torres|4.58|Tarde|22|Extraordinario|Biomedicas
+40000363|Carlos Diaz|84.00|Tarde|13|CEPRE 5TOS|Biomedicas
+40000364|Maria Lopez|29.69|Manana|3|CEPREUNSA|Sociales
+40000365|Juan Soto|7.69|Manana|28|CEPRE 5TOS|Biomedicas
+40000366|Carla Flores|96.60|Manana|10|Extraordinario|Sociales
+40000367|Pedro Quispe|53.35|Manana|43|Extraordinario|Sociales
+40000368|Lucia Ramos|58.28|Manana|12|CEPRE 5TOS|Sociales
+40000369|Diego Mamani|84.92|Tarde|44|CEPREUNSA|Biomedicas
+40000370|Sofia Vargas|49.02|Tarde|15|Ordinario|Biomedicas
+40000371|Jose Condori|35.95|Manana|20|Ordinario|Biomedicas
+40000372|Valeria Huaman|35.26|Manana|45|Extraordinario|Biomedicas
+40000373|Miguel Apaza|91.36|Tarde|13|Ordinario|Ingenierias
+40000374|Daniela Choque|16.04|Tarde|21|Extraordinario|Sociales
+40000375|Andres Paredes|28.31|Manana|33|CEPRE 5TOS|Ingenierias
+40000376|Camila Nina|30.56|Tarde|27|Extraordinario|Biomedicas
+40000377|Jorge Calla|30.97|Manana|29|Ordinario|Sociales
+40000378|Fernanda Lima|44.72|Manana|23|Extraordinario|Sociales
+40000379|Alonso Ticona|38.55|Tarde|40|Ordinario|Biomedicas
+40000380|Gabriela Flores|97.51|Manana|12|Extraordinario|Ingenierias
+40000381|Ana Perez|78.62|Tarde|40|CEPREUNSA|Biomedicas
+40000382|Luis Torres|25.99|Tarde|11|CEPRE 5TOS|Biomedicas
+40000383|Carlos Diaz|39.22|Tarde|7|CEPRE 5TOS|Sociales
+40000384|Maria Lopez|59.65|Manana|1|CEPREUNSA|Biomedicas
+40000385|Juan Soto|49.20|Manana|3|CEPREUNSA|Biomedicas
+40000386|Carla Flores|30.02|Tarde|5|Extraordinario|Biomedicas
+40000387|Pedro Quispe|55.46|Tarde|36|CEPREUNSA|Ingenierias
+40000388|Lucia Ramos|72.32|Manana|24|CEPRE 5TOS|Biomedicas
+40000389|Diego Mamani|96.44|Tarde|2|Ordinario|Biomedicas
+40000390|Sofia Vargas|74.99|Tarde|20|Ordinario|Biomedicas
+40000391|Jose Condori|53.12|Tarde|27|CEPREUNSA|Sociales
+40000392|Valeria Huaman|57.83|Tarde|3|Ordinario|Biomedicas
+40000393|Miguel Apaza|92.51|Manana|32|CEPREUNSA|Sociales
+40000394|Daniela Choque|19.25|Tarde|16|Extraordinario|Ingenierias
+40000395|Andres Paredes|13.71|Manana|20|Extraordinario|Biomedicas
+40000396|Camila Nina|8.10|Manana|10|Extraordinario|Ingenierias
+40000397|Jorge Calla|56.99|Tarde|14|CEPRE 5TOS|Ingenierias
+40000398|Fernanda Lima|6.42|Manana|8|CEPRE 5TOS|Biomedicas
+40000399|Alonso Ticona|47.36|Tarde|23|CEPREUNSA|Sociales
+40000400|Gabriela Flores|31.27|Manana|12|Extraordinario|Biomedicas
+40000401|Ana Perez|45.47|Tarde|28|Extraordinario|Ingenierias
+40000402|Luis Torres|87.12|Manana|39|CEPRE 5TOS|Ingenierias
+40000403|Carlos Diaz|94.37|Tarde|30|CEPRE 5TOS|Ingenierias
+40000404|Maria Lopez|35.02|Tarde|1|CEPREUNSA|Sociales
+40000405|Juan Soto|38.74|Manana|10|CEPREUNSA|Sociales
+40000406|Carla Flores|61.59|Manana|1|Extraordinario|Biomedicas
+40000407|Pedro Quispe|80.71|Manana|29|Extraordinario|Biomedicas
+40000408|Lucia Ramos|84.57|Tarde|9|Ordinario|Biomedicas
+40000409|Diego Mamani|61.27|Manana|40|CEPREUNSA|Sociales
+40000410|Sofia Vargas|68.16|Manana|23|Extraordinario|Ingenierias
+40000411|Jose Condori|75.22|Tarde|19|CEPREUNSA|Sociales
+40000412|Valeria Huaman|49.73|Tarde|10|CEPRE 5TOS|Ingenierias
+40000413|Miguel Apaza|32.45|Manana|25|CEPRE 5TOS|Ingenierias
+40000414|Daniela Choque|94.56|Manana|45|Ordinario|Sociales
+40000415|Andres Paredes|14.82|Manana|20|Extraordinario|Biomedicas
+40000416|Camila Nina|47.75|Tarde|10|CEPREUNSA|Sociales
+40000417|Jorge Calla|25.03|Tarde|36|Ordinario|Biomedicas
+40000418|Fernanda Lima|49.88|Manana|16|Ordinario|Ingenierias
+40000419|Alonso Ticona|21.93|Manana|39|Ordinario|Ingenierias
+40000420|Gabriela Flores|80.13|Tarde|11|Ordinario|Biomedicas
+40000421|Ana Perez|80.84|Tarde|31|CEPREUNSA|Ingenierias
+40000422|Luis Torres|4.28|Tarde|6|Ordinario|Biomedicas
+40000423|Carlos Diaz|29.84|Tarde|15|Extraordinario|Biomedicas
+40000424|Maria Lopez|5.73|Tarde|42|Extraordinario|Sociales
+40000425|Juan Soto|59.95|Tarde|16|Ordinario|Ingenierias
+40000426|Carla Flores|92.81|Manana|30|Extraordinario|Ingenierias
+40000427|Pedro Quispe|19.58|Tarde|17|Ordinario|Sociales
+40000428|Lucia Ramos|68.53|Tarde|23|CEPREUNSA|Sociales
+40000429|Diego Mamani|49.50|Tarde|18|CEPREUNSA|Biomedicas
+40000430|Sofia Vargas|82.67|Manana|2|Extraordinario|Sociales
+40000431|Jose Condori|46.00|Tarde|16|Ordinario|Sociales
+40000432|Valeria Huaman|35.05|Manana|7|Extraordinario|Ingenierias
+40000433|Miguel Apaza|24.99|Manana|36|CEPREUNSA|Biomedicas
+40000434|Daniela Choque|49.44|Tarde|27|Ordinario|Ingenierias
+40000435|Andres Paredes|9.43|Tarde|28|Ordinario|Sociales
+40000436|Camila Nina|99.45|Tarde|35|Ordinario|Ingenierias
+40000437|Jorge Calla|25.56|Tarde|29|CEPRE 5TOS|Ingenierias
+40000438|Fernanda Lima|40.02|Manana|14|CEPRE 5TOS|Ingenierias
+40000439|Alonso Ticona|19.68|Tarde|32|CEPREUNSA|Sociales
+40000440|Gabriela Flores|14.87|Manana|23|Extraordinario|Ingenierias
+40000441|Ana Perez|82.53|Manana|36|Extraordinario|Biomedicas
+40000442|Luis Torres|72.51|Tarde|1|CEPREUNSA|Biomedicas
+40000443|Carlos Diaz|92.53|Manana|19|Extraordinario|Ingenierias
+40000444|Maria Lopez|98.86|Tarde|12|Extraordinario|Biomedicas
+40000445|Juan Soto|75.05|Tarde|20|Extraordinario|Sociales
+40000446|Carla Flores|60.52|Manana|26|Extraordinario|Sociales
+40000447|Pedro Quispe|53.37|Tarde|27|Extraordinario|Biomedicas
+40000448|Lucia Ramos|38.58|Manana|22|CEPRE 5TOS|Biomedicas
+40000449|Diego Mamani|5.12|Tarde|17|CEPRE 5TOS|Ingenierias
+40000450|Sofia Vargas|4.41|Manana|28|CEPREUNSA|Ingenierias
+40000451|Jose Condori|79.36|Manana|22|Ordinario|Ingenierias
+40000452|Valeria Huaman|98.53|Tarde|40|CEPRE 5TOS|Biomedicas
+40000453|Miguel Apaza|3.89|Tarde|27|CEPREUNSA|Sociales
+40000454|Daniela Choque|87.16|Manana|18|CEPRE 5TOS|Sociales
+40000455|Andres Paredes|34.51|Tarde|22|CEPRE 5TOS|Biomedicas
+40000456|Camila Nina|0.19|Tarde|1|Ordinario|Biomedicas
+40000457|Jorge Calla|71.58|Tarde|1|CEPRE 5TOS|Biomedicas
+40000458|Fernanda Lima|1.77|Tarde|44|CEPRE 5TOS|Biomedicas
+40000459|Alonso Ticona|93.07|Tarde|41|CEPREUNSA|Biomedicas
+40000460|Gabriela Flores|32.47|Manana|13|Extraordinario|Sociales
+40000461|Ana Perez|68.39|Tarde|43|CEPRE 5TOS|Sociales
+40000462|Luis Torres|24.87|Manana|8|Ordinario|Biomedicas
+40000463|Carlos Diaz|30.89|Manana|8|CEPREUNSA|Biomedicas
+40000464|Maria Lopez|38.29|Manana|42|Extraordinario|Biomedicas
+40000465|Juan Soto|98.59|Manana|26|CEPREUNSA|Ingenierias
+40000466|Carla Flores|73.35|Manana|2|Extraordinario|Biomedicas
+40000467|Pedro Quispe|63.27|Tarde|25|CEPRE 5TOS|Biomedicas
+40000468|Lucia Ramos|26.46|Manana|28|CEPRE 5TOS|Biomedicas
+40000469|Diego Mamani|87.80|Manana|24|Extraordinario|Biomedicas
+40000470|Sofia Vargas|87.63|Manana|30|CEPREUNSA|Biomedicas
+40000471|Jose Condori|52.57|Tarde|14|Ordinario|Biomedicas
+40000472|Valeria Huaman|11.83|Manana|44|Ordinario|Sociales
+40000473|Miguel Apaza|36.60|Manana|14|CEPRE 5TOS|Sociales
+40000474|Daniela Choque|18.28|Tarde|3|CEPREUNSA|Biomedicas
+40000475|Andres Paredes|52.36|Manana|26|CEPRE 5TOS|Biomedicas
+40000476|Camila Nina|18.19|Manana|35|Ordinario|Ingenierias
+40000477|Jorge Calla|63.27|Tarde|4|CEPREUNSA|Sociales
+40000478|Fernanda Lima|78.78|Manana|9|Extraordinario|Biomedicas
+40000479|Alonso Ticona|69.34|Tarde|31|Extraordinario|Sociales
+40000480|Gabriela Flores|88.68|Tarde|3|CEPREUNSA|Biomedicas
+40000481|Ana Perez|4.20|Manana|10|CEPRE 5TOS|Sociales
+40000482|Luis Torres|84.47|Tarde|17|Extraordinario|Biomedicas
+40000483|Carlos Diaz|99.79|Manana|35|Extraordinario|Ingenierias
+40000484|Maria Lopez|55.75|Manana|10|CEPRE 5TOS|Biomedicas
+40000485|Juan Soto|9.48|Tarde|14|CEPRE 5TOS|Ingenierias
+40000486|Carla Flores|45.27|Manana|23|CEPRE 5TOS|Ingenierias
+40000487|Pedro Quispe|99.51|Manana|43|CEPREUNSA|Ingenierias
+40000488|Lucia Ramos|44.62|Tarde|41|Extraordinario|Ingenierias
+40000489|Diego Mamani|28.69|Manana|16|CEPREUNSA|Sociales
+40000490|Sofia Vargas|95.26|Manana|31|CEPREUNSA|Sociales
+40000491|Jose Condori|31.02|Manana|32|Ordinario|Sociales
+40000492|Valeria Huaman|80.73|Manana|45|CEPRE 5TOS|Sociales
+40000493|Miguel Apaza|74.92|Tarde|10|Ordinario|Ingenierias
+40000494|Daniela Choque|80.97|Manana|13|Ordinario|Sociales
+40000495|Andres Paredes|25.41|Tarde|5|Ordinario|Ingenierias
+40000496|Camila Nina|27.92|Tarde|13|Ordinario|Sociales
+40000497|Jorge Calla|67.88|Manana|32|Extraordinario|Ingenierias
+40000498|Fernanda Lima|33.08|Tarde|27|Ordinario|Biomedicas
+40000499|Alonso Ticona|5.98|Tarde|15|CEPREUNSA|Ingenierias
+40000500|Gabriela Flores|80.29|Manana|32|CEPRE 5TOS|Ingenierias
+40000501|Ana Perez|36.43|Tarde|26|Extraordinario|Biomedicas
+40000502|Luis Torres|8.57|Tarde|24|CEPRE 5TOS|Ingenierias
+40000503|Carlos Diaz|61.58|Manana|30|CEPRE 5TOS|Biomedicas
+40000504|Maria Lopez|61.56|Manana|8|Ordinario|Ingenierias
+40000505|Juan Soto|94.37|Manana|6|Ordinario|Sociales
+40000506|Carla Flores|25.91|Tarde|25|Ordinario|Ingenierias
+40000507|Pedro Quispe|19.58|Manana|31|Extraordinario|Ingenierias
+40000508|Lucia Ramos|27.71|Manana|5|Ordinario|Sociales
+40000509|Diego Mamani|60.30|Tarde|4|CEPRE 5TOS|Ingenierias
+40000510|Sofia Vargas|94.36|Tarde|12|CEPREUNSA|Ingenierias
+40000511|Jose Condori|56.42|Manana|7|Extraordinario|Ingenierias
+40000512|Valeria Huaman|75.94|Tarde|26|Ordinario|Sociales
+40000513|Miguel Apaza|23.29|Manana|26|Extraordinario|Biomedicas
+40000514|Daniela Choque|87.97|Manana|35|Extraordinario|Sociales
+40000515|Andres Paredes|22.76|Tarde|34|Extraordinario|Sociales
+40000516|Camila Nina|27.30|Manana|34|Ordinario|Ingenierias
+40000517|Jorge Calla|71.85|Manana|3|CEPRE 5TOS|Sociales
+40000518|Fernanda Lima|66.16|Tarde|14|Ordinario|Biomedicas
+40000519|Alonso Ticona|48.40|Tarde|38|CEPRE 5TOS|Sociales
+40000520|Gabriela Flores|21.25|Manana|28|Extraordinario|Biomedicas
+40000521|Ana Perez|17.14|Tarde|16|CEPRE 5TOS|Biomedicas
+40000522|Luis Torres|84.51|Manana|40|CEPRE 5TOS|Sociales
+40000523|Carlos Diaz|59.07|Manana|40|Ordinario|Biomedicas
+40000524|Maria Lopez|23.41|Manana|13|CEPRE 5TOS|Ingenierias
+40000525|Juan Soto|19.06|Tarde|23|CEPREUNSA|Sociales
+40000526|Carla Flores|15.50|Manana|3|CEPRE 5TOS|Ingenierias
+40000527|Pedro Quispe|38.77|Manana|13|Extraordinario|Ingenierias
+40000528|Lucia Ramos|1.26|Manana|21|CEPREUNSA|Sociales
+40000529|Diego Mamani|60.94|Tarde|42|Ordinario|Sociales
+40000530|Sofia Vargas|28.53|Tarde|20|CEPREUNSA|Biomedicas
+40000531|Jose Condori|10.84|Tarde|31|CEPRE 5TOS|Sociales
+40000532|Valeria Huaman|98.89|Manana|35|Ordinario|Sociales
+40000533|Miguel Apaza|38.04|Manana|25|CEPREUNSA|Sociales
+40000534|Daniela Choque|45.51|Manana|15|CEPREUNSA|Ingenierias
+40000535|Andres Paredes|68.11|Manana|17|CEPRE 5TOS|Ingenierias
+40000536|Camila Nina|1.46|Manana|14|CEPRE 5TOS|Sociales
+40000537|Jorge Calla|53.04|Manana|10|CEPRE 5TOS|Ingenierias
+40000538|Fernanda Lima|77.24|Tarde|43|CEPRE 5TOS|Ingenierias
+40000539|Alonso Ticona|93.76|Manana|4|CEPRE 5TOS|Ingenierias
+40000540|Gabriela Flores|30.03|Tarde|4|CEPREUNSA|Sociales
+40000541|Ana Perez|1.52|Tarde|18|CEPREUNSA|Ingenierias
+40000542|Luis Torres|48.39|Manana|3|Extraordinario|Biomedicas
+40000543|Carlos Diaz|94.67|Manana|12|Ordinario|Biomedicas
+40000544|Maria Lopez|6.48|Manana|22|CEPRE 5TOS|Biomedicas
+40000545|Juan Soto|41.53|Manana|2|CEPRE 5TOS|Biomedicas
+40000546|Carla Flores|0.72|Manana|12|Extraordinario|Biomedicas
+40000547|Pedro Quispe|64.28|Manana|34|Extraordinario|Sociales
+40000548|Lucia Ramos|20.84|Tarde|7|Ordinario|Sociales
+40000549|Diego Mamani|29.28|Manana|37|CEPREUNSA|Biomedicas
+40000550|Sofia Vargas|61.41|Tarde|6|Ordinario|Ingenierias
+40000551|Jose Condori|47.03|Tarde|19|Extraordinario|Biomedicas
+40000552|Valeria Huaman|7.50|Tarde|43|CEPREUNSA|Ingenierias
+40000553|Miguel Apaza|1.07|Manana|6|CEPRE 5TOS|Sociales
+40000554|Daniela Choque|89.75|Tarde|5|CEPREUNSA|Ingenierias
+40000555|Andres Paredes|88.06|Tarde|43|CEPRE 5TOS|Ingenierias
+40000556|Camila Nina|70.95|Manana|2|CEPREUNSA|Biomedicas
+40000557|Jorge Calla|30.30|Tarde|13|Ordinario|Biomedicas
+40000558|Fernanda Lima|75.15|Tarde|4|CEPRE 5TOS|Biomedicas
+40000559|Alonso Ticona|29.83|Manana|32|CEPREUNSA|Sociales
+40000560|Gabriela Flores|39.86|Tarde|26|Ordinario|Sociales
+40000561|Ana Perez|80.35|Manana|3|Ordinario|Sociales
+40000562|Luis Torres|24.27|Manana|4|CEPRE 5TOS|Biomedicas
+40000563|Carlos Diaz|48.01|Manana|28|CEPREUNSA|Ingenierias
+40000564|Maria Lopez|89.64|Manana|31|Extraordinario|Ingenierias
+40000565|Juan Soto|31.40|Manana|8|CEPREUNSA|Biomedicas
+40000566|Carla Flores|25.47|Tarde|4|Extraordinario|Biomedicas
+40000567|Pedro Quispe|6.11|Tarde|34|CEPRE 5TOS|Sociales
+40000568|Lucia Ramos|50.12|Tarde|19|Extraordinario|Sociales
+40000569|Diego Mamani|34.80|Tarde|13|CEPRE 5TOS|Biomedicas
+40000570|Sofia Vargas|66.03|Manana|28|CEPRE 5TOS|Sociales
+40000571|Jose Condori|15.58|Tarde|7|CEPREUNSA|Sociales
+40000572|Valeria Huaman|24.03|Manana|40|Extraordinario|Biomedicas
+40000573|Miguel Apaza|26.82|Tarde|24|Extraordinario|Biomedicas
+40000574|Daniela Choque|83.91|Tarde|43|Extraordinario|Sociales
+40000575|Andres Paredes|51.83|Tarde|3|Extraordinario|Sociales
+40000576|Camila Nina|54.58|Tarde|31|CEPRE 5TOS|Sociales
+40000577|Jorge Calla|85.34|Tarde|37|Extraordinario|Biomedicas
+40000578|Fernanda Lima|60.80|Tarde|31|Extraordinario|Ingenierias
+40000579|Alonso Ticona|7.87|Tarde|14|CEPREUNSA|Ingenierias
+40000580|Gabriela Flores|92.75|Tarde|13|Ordinario|Ingenierias
+40000581|Ana Perez|79.25|Tarde|36|Ordinario|Ingenierias
+40000582|Luis Torres|84.54|Manana|7|Ordinario|Biomedicas
+40000583|Carlos Diaz|27.02|Tarde|42|Extraordinario|Ingenierias
+40000584|Maria Lopez|97.06|Tarde|16|Extraordinario|Sociales
+40000585|Juan Soto|53.66|Manana|19|Extraordinario|Biomedicas
+40000586|Carla Flores|15.84|Manana|10|Ordinario|Ingenierias
+40000587|Pedro Quispe|77.35|Tarde|35|CEPREUNSA|Biomedicas
+40000588|Lucia Ramos|9.50|Tarde|23|CEPREUNSA|Biomedicas
+40000589|Diego Mamani|92.59|Tarde|19|Extraordinario|Ingenierias
+40000590|Sofia Vargas|87.83|Manana|33|Extraordinario|Ingenierias
+40000591|Jose Condori|17.79|Manana|37|Ordinario|Biomedicas
+40000592|Valeria Huaman|82.19|Manana|43|Ordinario|Ingenierias
+40000593|Miguel Apaza|21.48|Manana|45|Extraordinario|Ingenierias
+40000594|Daniela Choque|14.13|Manana|2|Extraordinario|Ingenierias
+40000595|Andres Paredes|82.26|Manana|44|Ordinario|Ingenierias
+40000596|Camila Nina|83.81|Manana|10|CEPRE 5TOS|Ingenierias
+40000597|Jorge Calla|62.58|Manana|44|CEPRE 5TOS|Biomedicas
+40000598|Fernanda Lima|76.35|Manana|16|CEPREUNSA|Sociales
+40000599|Alonso Ticona|45.82|Manana|6|Ordinario|Biomedicas
+40000600|Gabriela Flores|81.64|Tarde|6|Extraordinario|Sociales
+40000601|Ana Perez|28.03|Tarde|26|Extraordinario|Sociales
+40000602|Luis Torres|3.28|Tarde|36|CEPREUNSA|Sociales
+40000603|Carlos Diaz|65.30|Tarde|10|CEPREUNSA|Ingenierias
+40000604|Maria Lopez|58.82|Manana|40|Extraordinario|Ingenierias
+40000605|Juan Soto|74.18|Tarde|14|CEPREUNSA|Biomedicas
+40000606|Carla Flores|94.96|Tarde|15|Ordinario|Ingenierias
+40000607|Pedro Quispe|75.79|Manana|15|CEPRE 5TOS|Sociales
+40000608|Lucia Ramos|23.36|Manana|6|Extraordinario|Ingenierias
+40000609|Diego Mamani|17.06|Manana|28|Extraordinario|Biomedicas
+40000610|Sofia Vargas|4.97|Manana|2|CEPREUNSA|Sociales
+40000611|Jose Condori|74.39|Tarde|29|Ordinario|Sociales
+40000612|Valeria Huaman|60.99|Manana|25|Extraordinario|Ingenierias
+40000613|Miguel Apaza|18.05|Tarde|29|CEPRE 5TOS|Biomedicas
+40000614|Daniela Choque|23.24|Manana|6|Extraordinario|Sociales
+40000615|Andres Paredes|54.04|Manana|5|Ordinario|Ingenierias
+40000616|Camila Nina|88.69|Tarde|15|CEPREUNSA|Biomedicas
+40000617|Jorge Calla|54.08|Tarde|23|CEPREUNSA|Ingenierias
+40000618|Fernanda Lima|89.15|Manana|35|CEPRE 5TOS|Ingenierias
+40000619|Alonso Ticona|25.52|Tarde|13|CEPREUNSA|Biomedicas
+40000620|Gabriela Flores|71.11|Tarde|14|CEPREUNSA|Sociales
+40000621|Ana Perez|28.11|Tarde|26|CEPRE 5TOS|Biomedicas
+40000622|Luis Torres|67.14|Tarde|41|CEPREUNSA|Biomedicas
+40000623|Carlos Diaz|98.97|Tarde|19|Extraordinario|Biomedicas
+40000624|Maria Lopez|5.81|Tarde|31|CEPREUNSA|Biomedicas
+40000625|Juan Soto|1.74|Manana|10|CEPRE 5TOS|Sociales
+40000626|Carla Flores|82.02|Tarde|8|CEPRE 5TOS|Ingenierias
+40000627|Pedro Quispe|16.42|Manana|34|Extraordinario|Biomedicas
+40000628|Lucia Ramos|7.91|Tarde|22|CEPREUNSA|Sociales
+40000629|Diego Mamani|57.40|Manana|40|CEPREUNSA|Ingenierias
+40000630|Sofia Vargas|94.88|Tarde|13|CEPREUNSA|Ingenierias
+40000631|Jose Condori|23.04|Manana|19|CEPRE 5TOS|Biomedicas
+40000632|Valeria Huaman|98.63|Tarde|26|Ordinario|Biomedicas
+40000633|Miguel Apaza|53.48|Tarde|41|Ordinario|Ingenierias
+40000634|Daniela Choque|56.96|Tarde|15|CEPREUNSA|Ingenierias
+40000635|Andres Paredes|35.46|Tarde|24|Ordinario|Ingenierias
+40000636|Camila Nina|63.98|Tarde|7|CEPREUNSA|Sociales
+40000637|Jorge Calla|15.75|Tarde|31|Extraordinario|Ingenierias
+40000638|Fernanda Lima|94.21|Tarde|34|CEPRE 5TOS|Ingenierias
+40000639|Alonso Ticona|31.82|Manana|23|CEPRE 5TOS|Sociales
+40000640|Gabriela Flores|23.28|Tarde|20|Ordinario|Biomedicas
+40000641|Ana Perez|78.06|Tarde|19|Extraordinario|Sociales
+40000642|Luis Torres|81.77|Manana|7|CEPRE 5TOS|Biomedicas
+40000643|Carlos Diaz|3.18|Tarde|41|CEPRE 5TOS|Biomedicas
+40000644|Maria Lopez|86.11|Tarde|4|Extraordinario|Biomedicas
+40000645|Juan Soto|54.55|Tarde|36|CEPREUNSA|Biomedicas
+40000646|Carla Flores|33.14|Manana|13|CEPREUNSA|Sociales
+40000647|Pedro Quispe|28.67|Manana|45|CEPREUNSA|Biomedicas
+40000648|Lucia Ramos|22.73|Manana|2|Ordinario|Biomedicas
+40000649|Diego Mamani|77.09|Tarde|41|Extraordinario|Biomedicas
+40000650|Sofia Vargas|13.32|Manana|20|CEPRE 5TOS|Ingenierias
+40000651|Jose Condori|83.81|Manana|21|CEPRE 5TOS|Biomedicas
+40000652|Valeria Huaman|8.70|Manana|27|Extraordinario|Biomedicas
+40000653|Miguel Apaza|61.85|Tarde|43|CEPREUNSA|Sociales
+40000654|Daniela Choque|62.99|Tarde|41|Extraordinario|Sociales
+40000655|Andres Paredes|56.33|Manana|15|CEPREUNSA|Biomedicas
+40000656|Camila Nina|87.64|Tarde|9|CEPREUNSA|Ingenierias
+40000657|Jorge Calla|91.16|Tarde|3|CEPREUNSA|Biomedicas
+40000658|Fernanda Lima|96.23|Tarde|14|Extraordinario|Sociales
+40000659|Alonso Ticona|17.76|Manana|4|CEPREUNSA|Biomedicas
+40000660|Gabriela Flores|12.49|Tarde|43|Extraordinario|Ingenierias
+40000661|Ana Perez|58.31|Manana|33|CEPREUNSA|Ingenierias
+40000662|Luis Torres|83.10|Manana|10|CEPREUNSA|Sociales
+40000663|Carlos Diaz|88.94|Tarde|13|Ordinario|Biomedicas
+40000664|Maria Lopez|3.65|Tarde|40|CEPRE 5TOS|Ingenierias
+40000665|Juan Soto|54.20|Manana|39|CEPRE 5TOS|Sociales
+40000666|Carla Flores|98.14|Manana|20|Ordinario|Ingenierias
+40000667|Pedro Quispe|33.87|Tarde|9|Ordinario|Biomedicas
+40000668|Lucia Ramos|18.75|Manana|37|CEPRE 5TOS|Biomedicas
+40000669|Diego Mamani|63.20|Tarde|14|CEPREUNSA|Ingenierias
+40000670|Sofia Vargas|3.28|Manana|31|CEPRE 5TOS|Ingenierias
+40000671|Jose Condori|11.80|Tarde|34|CEPREUNSA|Biomedicas
+40000672|Valeria Huaman|16.77|Manana|8|Extraordinario|Sociales
+40000673|Miguel Apaza|79.84|Manana|33|Ordinario|Ingenierias
+40000674|Daniela Choque|68.71|Tarde|8|Ordinario|Ingenierias
+40000675|Andres Paredes|6.96|Tarde|17|CEPRE 5TOS|Biomedicas
+40000676|Camila Nina|45.40|Tarde|20|CEPREUNSA|Biomedicas
+40000677|Jorge Calla|83.09|Manana|10|CEPREUNSA|Biomedicas
+40000678|Fernanda Lima|17.07|Tarde|17|Ordinario|Ingenierias
+40000679|Alonso Ticona|81.57|Manana|26|CEPRE 5TOS|Biomedicas
+40000680|Gabriela Flores|66.39|Manana|17|CEPREUNSA|Ingenierias
+40000681|Ana Perez|7.63|Tarde|3|Extraordinario|Ingenierias
+40000682|Luis Torres|15.89|Manana|42|CEPRE 5TOS|Ingenierias
+40000683|Carlos Diaz|10.18|Tarde|18|CEPRE 5TOS|Sociales
+40000684|Maria Lopez|96.89|Tarde|26|CEPRE 5TOS|Ingenierias
+40000685|Juan Soto|25.15|Tarde|44|Extraordinario|Sociales
+40000686|Carla Flores|24.46|Manana|10|Ordinario|Ingenierias
+40000687|Pedro Quispe|10.23|Tarde|15|Extraordinario|Ingenierias
+40000688|Lucia Ramos|98.28|Tarde|38|CEPRE 5TOS|Ingenierias
+40000689|Diego Mamani|59.84|Tarde|1|Extraordinario|Biomedicas
+40000690|Sofia Vargas|48.47|Tarde|2|Extraordinario|Sociales
+40000691|Jose Condori|27.34|Manana|32|Ordinario|Sociales
+40000692|Valeria Huaman|82.18|Manana|37|CEPREUNSA|Biomedicas
+40000693|Miguel Apaza|0.39|Tarde|42|Extraordinario|Biomedicas
+40000694|Daniela Choque|66.00|Tarde|21|Extraordinario|Ingenierias
+40000695|Andres Paredes|90.10|Tarde|13|Extraordinario|Biomedicas
+40000696|Camila Nina|34.13|Tarde|35|Extraordinario|Sociales
+40000697|Jorge Calla|76.46|Tarde|27|Ordinario|Ingenierias
+40000698|Fernanda Lima|66.17|Tarde|31|Extraordinario|Ingenierias
+40000699|Alonso Ticona|86.92|Manana|43|Extraordinario|Biomedicas
+40000700|Gabriela Flores|68.55|Manana|4|Ordinario|Ingenierias
+40000701|Ana Perez|37.89|Tarde|35|CEPRE 5TOS|Sociales
+40000702|Luis Torres|86.96|Manana|17|CEPRE 5TOS|Ingenierias
+40000703|Carlos Diaz|5.75|Tarde|23|CEPRE 5TOS|Biomedicas
+40000704|Maria Lopez|55.52|Manana|35|Ordinario|Sociales
+40000705|Juan Soto|12.09|Tarde|45|Ordinario|Ingenierias
+40000706|Carla Flores|22.65|Manana|35|CEPREUNSA|Sociales
+40000707|Pedro Quispe|11.16|Manana|8|CEPRE 5TOS|Sociales
+40000708|Lucia Ramos|19.98|Tarde|18|CEPREUNSA|Sociales
+40000709|Diego Mamani|82.21|Tarde|37|Extraordinario|Ingenierias
+40000710|Sofia Vargas|31.05|Manana|8|CEPREUNSA|Biomedicas
+40000711|Jose Condori|61.06|Manana|3|CEPRE 5TOS|Biomedicas
+40000712|Valeria Huaman|20.19|Tarde|4|CEPREUNSA|Biomedicas
+40000713|Miguel Apaza|60.36|Tarde|5|CEPREUNSA|Sociales
+40000714|Daniela Choque|16.26|Tarde|24|CEPREUNSA|Ingenierias
+40000715|Andres Paredes|73.14|Tarde|5|Ordinario|Sociales
+40000716|Camila Nina|26.14|Tarde|20|CEPREUNSA|Sociales
+40000717|Jorge Calla|25.14|Manana|10|Extraordinario|Sociales
+40000718|Fernanda Lima|73.89|Tarde|44|CEPRE 5TOS|Sociales
+40000719|Alonso Ticona|66.88|Tarde|14|Ordinario|Ingenierias
+40000720|Gabriela Flores|66.28|Manana|40|CEPREUNSA|Sociales
+40000721|Ana Perez|56.13|Tarde|42|CEPRE 5TOS|Ingenierias
+40000722|Luis Torres|49.26|Tarde|20|Ordinario|Sociales
+40000723|Carlos Diaz|78.08|Tarde|45|CEPRE 5TOS|Sociales
+40000724|Maria Lopez|58.09|Tarde|35|CEPREUNSA|Biomedicas
+40000725|Juan Soto|33.29|Manana|5|Extraordinario|Ingenierias
+40000726|Carla Flores|31.45|Tarde|38|CEPREUNSA|Sociales
+40000727|Pedro Quispe|56.37|Manana|4|CEPRE 5TOS|Ingenierias
+40000728|Lucia Ramos|3.23|Manana|41|CEPRE 5TOS|Ingenierias
+40000729|Diego Mamani|3.74|Manana|27|CEPRE 5TOS|Sociales
+40000730|Sofia Vargas|46.68|Tarde|42|Ordinario|Biomedicas
+40000731|Jose Condori|40.34|Tarde|2|Extraordinario|Sociales
+40000732|Valeria Huaman|10.82|Manana|45|CEPRE 5TOS|Ingenierias
+40000733|Miguel Apaza|37.73|Tarde|10|Extraordinario|Sociales
+40000734|Daniela Choque|35.85|Manana|16|CEPREUNSA|Ingenierias
+40000735|Andres Paredes|16.18|Tarde|23|Ordinario|Ingenierias
+40000736|Camila Nina|77.36|Tarde|5|Ordinario|Sociales
+40000737|Jorge Calla|1.85|Manana|4|Extraordinario|Sociales
+40000738|Fernanda Lima|12.44|Tarde|3|Extraordinario|Biomedicas
+40000739|Alonso Ticona|41.96|Manana|11|CEPRE 5TOS|Ingenierias
+40000740|Gabriela Flores|93.75|Manana|29|Ordinario|Sociales
+40000741|Ana Perez|37.50|Manana|38|Extraordinario|Sociales
+40000742|Luis Torres|72.16|Manana|13|Extraordinario|Biomedicas
+40000743|Carlos Diaz|66.60|Manana|17|Ordinario|Sociales
+40000744|Maria Lopez|68.87|Tarde|23|Ordinario|Biomedicas
+40000745|Juan Soto|77.95|Tarde|20|CEPREUNSA|Biomedicas
+40000746|Carla Flores|63.90|Tarde|40|CEPREUNSA|Ingenierias
+40000747|Pedro Quispe|12.56|Tarde|38|Extraordinario|Biomedicas
+40000748|Lucia Ramos|22.11|Manana|16|CEPRE 5TOS|Sociales
+40000749|Diego Mamani|43.83|Manana|11|CEPRE 5TOS|Ingenierias
+40000750|Sofia Vargas|71.43|Tarde|32|Extraordinario|Biomedicas
+40000751|Jose Condori|8.95|Tarde|34|Ordinario|Biomedicas
+40000752|Valeria Huaman|41.85|Tarde|12|CEPRE 5TOS|Ingenierias
+40000753|Miguel Apaza|7.59|Tarde|38|Ordinario|Biomedicas
+40000754|Daniela Choque|4.67|Manana|38|Extraordinario|Biomedicas
+40000755|Andres Paredes|5.65|Tarde|44|Extraordinario|Sociales
+40000756|Camila Nina|33.31|Tarde|17|Extraordinario|Biomedicas
+40000757|Jorge Calla|61.46|Tarde|38|CEPREUNSA|Ingenierias
+40000758|Fernanda Lima|49.80|Tarde|1|CEPREUNSA|Ingenierias
+40000759|Alonso Ticona|19.74|Manana|18|Ordinario|Ingenierias
+40000760|Gabriela Flores|88.06|Tarde|5|CEPREUNSA|Sociales
+40000761|Ana Perez|7.05|Manana|1|CEPREUNSA|Ingenierias
+40000762|Luis Torres|28.43|Manana|20|Extraordinario|Ingenierias
+40000763|Carlos Diaz|55.48|Tarde|11|CEPREUNSA|Biomedicas
+40000764|Maria Lopez|40.88|Tarde|37|Extraordinario|Sociales
+40000765|Juan Soto|43.47|Manana|5|CEPREUNSA|Biomedicas
+40000766|Carla Flores|32.96|Tarde|36|CEPRE 5TOS|Ingenierias
+40000767|Pedro Quispe|40.74|Tarde|20|CEPRE 5TOS|Ingenierias
+40000768|Lucia Ramos|12.42|Manana|9|CEPRE 5TOS|Sociales
+40000769|Diego Mamani|89.09|Manana|13|CEPREUNSA|Sociales
+40000770|Sofia Vargas|80.89|Tarde|21|CEPRE 5TOS|Sociales
+40000771|Jose Condori|0.07|Tarde|3|CEPREUNSA|Biomedicas
+40000772|Valeria Huaman|29.63|Tarde|38|Extraordinario|Ingenierias
+40000773|Miguel Apaza|64.05|Tarde|42|CEPREUNSA|Biomedicas
+40000774|Daniela Choque|75.94|Tarde|4|Extraordinario|Biomedicas
+40000775|Andres Paredes|37.87|Tarde|11|CEPREUNSA|Biomedicas
+40000776|Camila Nina|80.51|Tarde|31|Extraordinario|Biomedicas
+40000777|Jorge Calla|68.44|Tarde|8|Ordinario|Biomedicas
+40000778|Fernanda Lima|81.58|Manana|34|Ordinario|Biomedicas
+40000779|Alonso Ticona|76.68|Manana|10|CEPREUNSA|Ingenierias
+40000780|Gabriela Flores|92.48|Tarde|25|CEPRE 5TOS|Ingenierias
+40000781|Ana Perez|40.24|Tarde|7|Ordinario|Biomedicas
+40000782|Luis Torres|26.46|Manana|29|CEPRE 5TOS|Ingenierias
+40000783|Carlos Diaz|43.09|Tarde|35|Extraordinario|Sociales
+40000784|Maria Lopez|3.18|Tarde|29|CEPRE 5TOS|Biomedicas
+40000785|Juan Soto|32.11|Manana|30|Ordinario|Biomedicas
+40000786|Carla Flores|47.42|Manana|6|Extraordinario|Biomedicas
+40000787|Pedro Quispe|82.08|Tarde|7|Extraordinario|Biomedicas
+40000788|Lucia Ramos|21.01|Manana|22|Ordinario|Sociales
+40000789|Diego Mamani|59.11|Manana|29|Ordinario|Ingenierias
+40000790|Sofia Vargas|91.55|Tarde|27|CEPREUNSA|Sociales
+40000791|Jose Condori|95.70|Manana|18|Ordinario|Ingenierias
+40000792|Valeria Huaman|42.70|Manana|21|Ordinario|Sociales
+40000793|Miguel Apaza|67.38|Manana|4|Extraordinario|Biomedicas
+40000794|Daniela Choque|53.02|Manana|27|CEPRE 5TOS|Biomedicas
+40000795|Andres Paredes|89.35|Tarde|34|CEPREUNSA|Biomedicas
+40000796|Camila Nina|29.10|Tarde|12|CEPREUNSA|Sociales
+40000797|Jorge Calla|68.37|Manana|2|CEPRE 5TOS|Ingenierias
+40000798|Fernanda Lima|15.97|Manana|3|Ordinario|Sociales
+40000799|Alonso Ticona|32.47|Manana|43|CEPRE 5TOS|Ingenierias
+40000800|Gabriela Flores|61.82|Manana|24|Extraordinario|Biomedicas
+40000801|Ana Perez|82.61|Tarde|20|Extraordinario|Ingenierias
+40000802|Luis Torres|3.10|Manana|19|CEPRE 5TOS|Biomedicas
+40000803|Carlos Diaz|1.92|Manana|13|CEPREUNSA|Biomedicas
+40000804|Maria Lopez|8.59|Manana|41|Extraordinario|Ingenierias
+40000805|Juan Soto|22.89|Manana|28|Ordinario|Biomedicas
+40000806|Carla Flores|85.59|Tarde|42|CEPRE 5TOS|Biomedicas
+40000807|Pedro Quispe|21.07|Manana|18|CEPRE 5TOS|Ingenierias
+40000808|Lucia Ramos|77.48|Tarde|41|CEPREUNSA|Ingenierias
+40000809|Diego Mamani|12.00|Manana|22|CEPRE 5TOS|Biomedicas
+40000810|Sofia Vargas|52.08|Manana|24|Extraordinario|Biomedicas
+40000811|Jose Condori|54.24|Manana|44|Extraordinario|Ingenierias
+40000812|Valeria Huaman|10.77|Tarde|9|Extraordinario|Sociales
+40000813|Miguel Apaza|4.74|Tarde|26|Extraordinario|Biomedicas
+40000814|Daniela Choque|19.35|Tarde|38|CEPRE 5TOS|Sociales
+40000815|Andres Paredes|39.02|Tarde|40|CEPREUNSA|Ingenierias
+40000816|Camila Nina|29.32|Manana|13|Extraordinario|Biomedicas
+40000817|Jorge Calla|58.10|Tarde|10|Ordinario|Sociales
+40000818|Fernanda Lima|8.73|Tarde|23|Extraordinario|Sociales
+40000819|Alonso Ticona|8.99|Tarde|23|Extraordinario|Biomedicas
+40000820|Gabriela Flores|40.20|Tarde|13|CEPREUNSA|Ingenierias
+40000821|Ana Perez|59.32|Tarde|42|Ordinario|Ingenierias
+40000822|Luis Torres|95.96|Tarde|16|Extraordinario|Ingenierias
+40000823|Carlos Diaz|20.38|Manana|45|CEPREUNSA|Sociales
+40000824|Maria Lopez|20.52|Tarde|32|Ordinario|Biomedicas
+40000825|Juan Soto|75.76|Manana|38|Ordinario|Ingenierias
+40000826|Carla Flores|79.28|Tarde|45|Ordinario|Sociales
+40000827|Pedro Quispe|29.54|Tarde|37|CEPRE 5TOS|Biomedicas
+40000828|Lucia Ramos|14.23|Tarde|5|CEPRE 5TOS|Biomedicas
+40000829|Diego Mamani|2.04|Manana|19|CEPRE 5TOS|Sociales
+40000830|Sofia Vargas|15.06|Tarde|3|CEPREUNSA|Biomedicas
+40000831|Jose Condori|42.88|Manana|6|Ordinario|Biomedicas
+40000832|Valeria Huaman|78.37|Tarde|12|Ordinario|Sociales
+40000833|Miguel Apaza|17.84|Manana|42|Ordinario|Biomedicas
+40000834|Daniela Choque|90.03|Tarde|16|CEPREUNSA|Sociales
+40000835|Andres Paredes|26.02|Manana|39|CEPREUNSA|Ingenierias
+40000836|Camila Nina|68.50|Manana|22|CEPREUNSA|Biomedicas
+40000837|Jorge Calla|71.54|Tarde|36|CEPREUNSA|Ingenierias
+40000838|Fernanda Lima|8.51|Tarde|6|Extraordinario|Biomedicas
+40000839|Alonso Ticona|32.17|Tarde|24|Ordinario|Sociales
+40000840|Gabriela Flores|7.52|Tarde|36|Extraordinario|Sociales
+40000841|Ana Perez|47.20|Tarde|40|Extraordinario|Ingenierias
+40000842|Luis Torres|57.71|Manana|25|CEPRE 5TOS|Biomedicas
+40000843|Carlos Diaz|70.74|Manana|19|CEPRE 5TOS|Ingenierias
+40000844|Maria Lopez|22.98|Tarde|14|CEPRE 5TOS|Ingenierias
+40000845|Juan Soto|99.39|Tarde|17|Ordinario|Ingenierias
+40000846|Carla Flores|51.80|Manana|23|CEPRE 5TOS|Ingenierias
+40000847|Pedro Quispe|14.95|Manana|43|Ordinario|Biomedicas
+40000848|Lucia Ramos|43.21|Tarde|13|CEPREUNSA|Sociales
+40000849|Diego Mamani|65.67|Tarde|24|Extraordinario|Sociales
+40000850|Sofia Vargas|10.36|Manana|36|CEPRE 5TOS|Sociales
+40000851|Jose Condori|50.62|Tarde|12|Ordinario|Ingenierias
+40000852|Valeria Huaman|53.08|Manana|8|Ordinario|Sociales
+40000853|Miguel Apaza|86.18|Manana|11|Extraordinario|Ingenierias
+40000854|Daniela Choque|37.80|Tarde|33|CEPRE 5TOS|Biomedicas
+40000855|Andres Paredes|3.41|Manana|36|Ordinario|Ingenierias
+40000856|Camila Nina|60.09|Tarde|34|Extraordinario|Sociales
+40000857|Jorge Calla|77.79|Manana|18|CEPREUNSA|Biomedicas
+40000858|Fernanda Lima|18.27|Manana|31|CEPRE 5TOS|Biomedicas
+40000859|Alonso Ticona|53.13|Tarde|28|Ordinario|Biomedicas
+40000860|Gabriela Flores|20.75|Tarde|7|CEPRE 5TOS|Sociales
+40000861|Ana Perez|26.15|Manana|22|Extraordinario|Sociales
+40000862|Luis Torres|35.33|Tarde|44|Extraordinario|Biomedicas
+40000863|Carlos Diaz|39.87|Manana|28|CEPRE 5TOS|Sociales
+40000864|Maria Lopez|53.85|Tarde|42|Extraordinario|Ingenierias
+40000865|Juan Soto|88.13|Tarde|16|CEPRE 5TOS|Ingenierias
+40000866|Carla Flores|34.84|Manana|3|Ordinario|Biomedicas
+40000867|Pedro Quispe|71.44|Tarde|45|Extraordinario|Ingenierias
+40000868|Lucia Ramos|81.32|Tarde|6|CEPRE 5TOS|Ingenierias
+40000869|Diego Mamani|38.39|Manana|44|CEPRE 5TOS|Ingenierias
+40000870|Sofia Vargas|61.24|Manana|2|Extraordinario|Ingenierias
+40000871|Jose Condori|77.01|Tarde|39|Ordinario|Ingenierias
+40000872|Valeria Huaman|16.89|Tarde|43|CEPRE 5TOS|Ingenierias
+40000873|Miguel Apaza|75.51|Manana|22|CEPRE 5TOS|Sociales
+40000874|Daniela Choque|0.22|Tarde|5|Ordinario|Sociales
+40000875|Andres Paredes|27.74|Tarde|1|Ordinario|Sociales
+40000876|Camila Nina|2.86|Tarde|16|CEPRE 5TOS|Biomedicas
+40000877|Jorge Calla|88.81|Tarde|9|CEPREUNSA|Ingenierias
+40000878|Fernanda Lima|14.16|Tarde|9|Ordinario|Ingenierias
+40000879|Alonso Ticona|50.35|Manana|33|Extraordinario|Biomedicas
+40000880|Gabriela Flores|99.24|Manana|4|CEPRE 5TOS|Sociales
+40000881|Ana Perez|58.29|Manana|40|Ordinario|Sociales
+40000882|Luis Torres|97.31|Tarde|13|CEPREUNSA|Biomedicas
+40000883|Carlos Diaz|67.71|Tarde|19|Ordinario|Biomedicas
+40000884|Maria Lopez|0.95|Manana|34|Ordinario|Biomedicas
+40000885|Juan Soto|97.17|Tarde|28|CEPRE 5TOS|Biomedicas
+40000886|Carla Flores|36.57|Tarde|26|CEPREUNSA|Ingenierias
+40000887|Pedro Quispe|69.68|Tarde|43|CEPREUNSA|Sociales
+40000888|Lucia Ramos|11.14|Manana|30|CEPREUNSA|Sociales
+40000889|Diego Mamani|74.01|Tarde|42|Extraordinario|Sociales
+40000890|Sofia Vargas|70.91|Tarde|36|Extraordinario|Biomedicas
+40000891|Jose Condori|67.88|Tarde|34|Extraordinario|Sociales
+40000892|Valeria Huaman|18.23|Manana|31|CEPRE 5TOS|Ingenierias
+40000893|Miguel Apaza|18.13|Manana|42|Ordinario|Ingenierias
+40000894|Daniela Choque|0.04|Manana|33|Extraordinario|Sociales
+40000895|Andres Paredes|17.31|Tarde|44|Extraordinario|Sociales
+40000896|Camila Nina|30.50|Tarde|31|CEPREUNSA|Biomedicas
+40000897|Jorge Calla|42.80|Manana|15|CEPRE 5TOS|Sociales
+40000898|Fernanda Lima|19.56|Manana|9|CEPREUNSA|Biomedicas
+40000899|Alonso Ticona|93.28|Manana|25|Ordinario|Biomedicas
+40000900|Gabriela Flores|31.03|Tarde|15|CEPREUNSA|Sociales
+40000901|Ana Perez|54.24|Tarde|39|CEPRE 5TOS|Biomedicas
+40000902|Luis Torres|38.20|Tarde|12|Ordinario|Biomedicas
+40000903|Carlos Diaz|46.70|Manana|3|CEPRE 5TOS|Sociales
+40000904|Maria Lopez|12.79|Tarde|40|CEPRE 5TOS|Sociales
+40000905|Juan Soto|50.46|Manana|36|Ordinario|Ingenierias
+40000906|Carla Flores|96.77|Tarde|13|Ordinario|Ingenierias
+40000907|Pedro Quispe|24.12|Tarde|21|Extraordinario|Sociales
+40000908|Lucia Ramos|67.44|Manana|36|CEPRE 5TOS|Ingenierias
+40000909|Diego Mamani|53.61|Tarde|39|CEPREUNSA|Sociales
+40000910|Sofia Vargas|43.73|Manana|28|CEPRE 5TOS|Ingenierias
+40000911|Jose Condori|13.41|Manana|15|CEPRE 5TOS|Biomedicas
+40000912|Valeria Huaman|64.12|Tarde|30|CEPREUNSA|Ingenierias
+40000913|Miguel Apaza|27.15|Tarde|1|CEPREUNSA|Ingenierias
+40000914|Daniela Choque|80.96|Tarde|21|Extraordinario|Ingenierias
+40000915|Andres Paredes|82.03|Tarde|20|CEPRE 5TOS|Ingenierias
+40000916|Camila Nina|90.88|Manana|22|CEPRE 5TOS|Ingenierias
+40000917|Jorge Calla|18.70|Manana|37|CEPREUNSA|Sociales
+40000918|Fernanda Lima|93.20|Tarde|5|Ordinario|Biomedicas
+40000919|Alonso Ticona|24.29|Tarde|29|CEPRE 5TOS|Sociales
+40000920|Gabriela Flores|10.51|Manana|9|Ordinario|Ingenierias
+40000921|Ana Perez|93.49|Manana|27|Extraordinario|Ingenierias
+40000922|Luis Torres|31.81|Manana|16|Ordinario|Sociales
+40000923|Carlos Diaz|31.58|Tarde|2|Extraordinario|Sociales
+40000924|Maria Lopez|7.56|Manana|1|Extraordinario|Ingenierias
+40000925|Juan Soto|41.55|Tarde|26|CEPREUNSA|Sociales
+40000926|Carla Flores|9.06|Tarde|36|Ordinario|Sociales
+40000927|Pedro Quispe|65.46|Tarde|2|CEPREUNSA|Ingenierias
+40000928|Lucia Ramos|40.24|Tarde|35|Extraordinario|Ingenierias
+40000929|Diego Mamani|24.33|Tarde|18|Ordinario|Ingenierias
+40000930|Sofia Vargas|66.88|Tarde|31|CEPRE 5TOS|Biomedicas
+40000931|Jose Condori|46.34|Manana|44|CEPRE 5TOS|Biomedicas
+40000932|Valeria Huaman|81.83|Tarde|6|Ordinario|Sociales
+40000933|Miguel Apaza|43.88|Manana|38|Ordinario|Ingenierias
+40000934|Daniela Choque|6.85|Tarde|45|Ordinario|Biomedicas
+40000935|Andres Paredes|43.65|Manana|11|CEPRE 5TOS|Sociales
+40000936|Camila Nina|45.46|Manana|35|CEPREUNSA|Ingenierias
+40000937|Jorge Calla|7.18|Manana|43|Ordinario|Biomedicas
+40000938|Fernanda Lima|47.36|Tarde|40|Ordinario|Ingenierias
+40000939|Alonso Ticona|95.95|Manana|45|CEPREUNSA|Ingenierias
+40000940|Gabriela Flores|56.77|Manana|23|CEPRE 5TOS|Biomedicas
+40000941|Ana Perez|6.67|Manana|1|CEPRE 5TOS|Biomedicas
+40000942|Luis Torres|5.78|Tarde|37|CEPREUNSA|Ingenierias
+40000943|Carlos Diaz|16.64|Manana|4|CEPRE 5TOS|Ingenierias
+40000944|Maria Lopez|31.70|Tarde|42|CEPRE 5TOS|Biomedicas
+40000945|Juan Soto|45.60|Tarde|37|Extraordinario|Biomedicas
+40000946|Carla Flores|17.15|Manana|44|CEPRE 5TOS|Ingenierias
+40000947|Pedro Quispe|24.23|Manana|16|Ordinario|Biomedicas
+40000948|Lucia Ramos|67.70|Tarde|45|CEPRE 5TOS|Ingenierias
+40000949|Diego Mamani|61.37|Manana|24|CEPRE 5TOS|Ingenierias
+40000950|Sofia Vargas|41.66|Tarde|11|Ordinario|Biomedicas
+40000951|Jose Condori|32.15|Manana|31|CEPRE 5TOS|Ingenierias
+40000952|Valeria Huaman|0.37|Manana|37|Ordinario|Sociales
+40000953|Miguel Apaza|17.26|Manana|15|Extraordinario|Ingenierias
+40000954|Daniela Choque|60.62|Tarde|30|Ordinario|Sociales
+40000955|Andres Paredes|8.10|Manana|29|Ordinario|Biomedicas
+40000956|Camila Nina|49.62|Tarde|34|CEPRE 5TOS|Biomedicas
+40000957|Jorge Calla|69.92|Tarde|26|Extraordinario|Ingenierias
+40000958|Fernanda Lima|24.23|Tarde|33|CEPRE 5TOS|Sociales
+40000959|Alonso Ticona|48.58|Tarde|38|Ordinario|Biomedicas
+40000960|Gabriela Flores|43.95|Tarde|45|CEPRE 5TOS|Ingenierias
+40000961|Ana Perez|0.28|Tarde|19|Extraordinario|Biomedicas
+40000962|Luis Torres|86.55|Manana|42|Extraordinario|Ingenierias
+40000963|Carlos Diaz|50.01|Manana|37|CEPRE 5TOS|Biomedicas
+40000964|Maria Lopez|27.57|Tarde|11|Ordinario|Sociales
+40000965|Juan Soto|30.16|Manana|37|Ordinario|Ingenierias
+40000966|Carla Flores|81.80|Manana|6|CEPRE 5TOS|Sociales
+40000967|Pedro Quispe|62.33|Tarde|41|CEPRE 5TOS|Sociales
+40000968|Lucia Ramos|34.71|Manana|9|CEPREUNSA|Sociales
+40000969|Diego Mamani|82.95|Manana|26|CEPRE 5TOS|Biomedicas
+40000970|Sofia Vargas|39.52|Manana|38|Extraordinario|Sociales
+40000971|Jose Condori|47.43|Manana|37|CEPREUNSA|Ingenierias
+40000972|Valeria Huaman|7.68|Manana|40|CEPRE 5TOS|Biomedicas
+40000973|Miguel Apaza|1.54|Tarde|39|CEPRE 5TOS|Biomedicas
+40000974|Daniela Choque|11.41|Tarde|1|CEPRE 5TOS|Biomedicas
+40000975|Andres Paredes|36.19|Manana|42|Ordinario|Sociales
+40000976|Camila Nina|96.66|Manana|15|Ordinario|Biomedicas
+40000977|Jorge Calla|6.75|Manana|4|Ordinario|Biomedicas
+40000978|Fernanda Lima|9.77|Manana|28|Ordinario|Ingenierias
+40000979|Alonso Ticona|94.89|Manana|26|CEPRE 5TOS|Ingenierias
+40000980|Gabriela Flores|28.14|Tarde|38|Ordinario|Ingenierias
+40000981|Ana Perez|69.99|Manana|44|CEPRE 5TOS|Sociales
+40000982|Luis Torres|63.91|Manana|45|Ordinario|Ingenierias
+40000983|Carlos Diaz|72.77|Tarde|35|Extraordinario|Ingenierias
+40000984|Maria Lopez|17.88|Manana|3|Ordinario|Biomedicas
+40000985|Juan Soto|10.72|Manana|15|Ordinario|Ingenierias
+40000986|Carla Flores|25.54|Manana|39|Ordinario|Ingenierias
+40000987|Pedro Quispe|95.27|Tarde|13|CEPRE 5TOS|Sociales
+40000988|Lucia Ramos|26.67|Manana|22|CEPRE 5TOS|Sociales
+40000989|Diego Mamani|97.26|Manana|35|CEPRE 5TOS|Ingenierias
+40000990|Sofia Vargas|83.98|Manana|33|CEPRE 5TOS|Ingenierias
+40000991|Jose Condori|77.23|Manana|12|CEPREUNSA|Biomedicas
+40000992|Valeria Huaman|97.71|Manana|18|CEPRE 5TOS|Ingenierias
+40000993|Miguel Apaza|30.64|Tarde|35|CEPREUNSA|Ingenierias
+40000994|Daniela Choque|59.38|Manana|2|Extraordinario|Biomedicas
+40000995|Andres Paredes|22.12|Manana|18|Extraordinario|Ingenierias
+40000996|Camila Nina|42.95|Manana|21|Ordinario|Biomedicas
+40000997|Jorge Calla|57.12|Manana|24|Extraordinario|Ingenierias
+40000998|Fernanda Lima|39.84|Manana|7|Extraordinario|Ingenierias
+40000999|Alonso Ticona|92.97|Tarde|17|Ordinario|Biomedicas
+40001000|Gabriela Flores|59.92|Tarde|7|Extraordinario|Biomedicas
+40001001|Ana Perez|59.50|Manana|24|Extraordinario|Sociales
+40001002|Luis Torres|15.76|Tarde|15|Extraordinario|Sociales
+40001003|Carlos Diaz|80.09|Tarde|19|Ordinario|Ingenierias
+40001004|Maria Lopez|63.44|Manana|21|Ordinario|Biomedicas
+40001005|Juan Soto|12.83|Tarde|28|CEPREUNSA|Ingenierias
+40001006|Carla Flores|24.96|Tarde|38|CEPREUNSA|Ingenierias
+40001007|Pedro Quispe|97.60|Tarde|11|CEPREUNSA|Sociales
+40001008|Lucia Ramos|86.77|Tarde|7|Extraordinario|Biomedicas
+40001009|Diego Mamani|71.86|Tarde|32|CEPRE 5TOS|Biomedicas
+40001010|Sofia Vargas|86.60|Manana|8|CEPREUNSA|Sociales
+40001011|Jose Condori|10.93|Tarde|21|Extraordinario|Biomedicas
+40001012|Valeria Huaman|99.90|Tarde|38|Ordinario|Biomedicas
+40001013|Miguel Apaza|44.16|Tarde|3|Extraordinario|Ingenierias
+40001014|Daniela Choque|28.81|Tarde|12|CEPRE 5TOS|Biomedicas
+40001015|Andres Paredes|76.23|Manana|28|Ordinario|Sociales
+40001016|Camila Nina|63.47|Tarde|23|Extraordinario|Sociales
+40001017|Jorge Calla|49.80|Manana|4|CEPREUNSA|Sociales
+40001018|Fernanda Lima|77.84|Manana|25|CEPRE 5TOS|Biomedicas
+40001019|Alonso Ticona|3.42|Tarde|39|CEPRE 5TOS|Biomedicas
+40001020|Gabriela Flores|52.43|Tarde|15|Extraordinario|Biomedicas
+40001021|Ana Perez|77.44|Tarde|32|CEPRE 5TOS|Sociales
+40001022|Luis Torres|9.45|Manana|9|CEPRE 5TOS|Ingenierias
+40001023|Carlos Diaz|48.00|Tarde|45|Extraordinario|Ingenierias
+40001024|Maria Lopez|48.13|Tarde|19|CEPRE 5TOS|Biomedicas
+40001025|Juan Soto|54.55|Manana|17|Ordinario|Biomedicas
+40001026|Carla Flores|38.55|Manana|4|CEPREUNSA|Ingenierias
+40001027|Pedro Quispe|85.51|Tarde|18|Extraordinario|Ingenierias
+40001028|Lucia Ramos|45.13|Manana|38|Ordinario|Ingenierias
+40001029|Diego Mamani|5.63|Manana|44|Ordinario|Sociales
+40001030|Sofia Vargas|70.22|Manana|32|Extraordinario|Ingenierias
+40001031|Jose Condori|76.26|Manana|12|CEPRE 5TOS|Biomedicas
+40001032|Valeria Huaman|55.90|Manana|27|Extraordinario|Sociales
+40001033|Miguel Apaza|44.19|Manana|33|Extraordinario|Biomedicas
+40001034|Daniela Choque|74.52|Tarde|33|CEPRE 5TOS|Biomedicas
+40001035|Andres Paredes|41.29|Tarde|6|CEPREUNSA|Ingenierias
+40001036|Camila Nina|21.05|Tarde|17|Extraordinario|Biomedicas
+40001037|Jorge Calla|25.54|Manana|39|CEPREUNSA|Ingenierias
+40001038|Fernanda Lima|49.28|Manana|1|Ordinario|Biomedicas
+40001039|Alonso Ticona|40.78|Tarde|42|Extraordinario|Ingenierias
+40001040|Gabriela Flores|60.21|Manana|1|Ordinario|Sociales
+40001041|Ana Perez|62.88|Manana|8|Ordinario|Ingenierias
+40001042|Luis Torres|84.69|Tarde|25|Extraordinario|Ingenierias
+40001043|Carlos Diaz|87.76|Tarde|42|Ordinario|Sociales
+40001044|Maria Lopez|89.82|Manana|45|Ordinario|Sociales
+40001045|Juan Soto|58.52|Manana|26|Extraordinario|Biomedicas
+40001046|Carla Flores|83.06|Manana|17|CEPRE 5TOS|Ingenierias
+40001047|Pedro Quispe|15.90|Tarde|16|Ordinario|Biomedicas
+40001048|Lucia Ramos|13.07|Manana|17|Ordinario|Ingenierias
+40001049|Diego Mamani|22.81|Manana|34|CEPREUNSA|Ingenierias
+40001050|Sofia Vargas|45.64|Tarde|5|Extraordinario|Biomedicas
+40001051|Jose Condori|20.24|Manana|1|CEPRE 5TOS|Biomedicas
+40001052|Valeria Huaman|59.03|Manana|10|Ordinario|Biomedicas
+40001053|Miguel Apaza|5.36|Manana|14|CEPREUNSA|Biomedicas
+40001054|Daniela Choque|40.14|Tarde|32|Ordinario|Biomedicas
+40001055|Andres Paredes|44.35|Manana|27|Extraordinario|Biomedicas
+40001056|Camila Nina|93.35|Tarde|26|Extraordinario|Biomedicas
+40001057|Jorge Calla|81.87|Tarde|25|Extraordinario|Ingenierias
+40001058|Fernanda Lima|13.75|Tarde|19|CEPREUNSA|Ingenierias
+40001059|Alonso Ticona|53.45|Manana|36|CEPRE 5TOS|Sociales
+40001060|Gabriela Flores|1.05|Manana|30|Extraordinario|Ingenierias
+40001061|Ana Perez|63.53|Tarde|17|CEPREUNSA|Biomedicas
+40001062|Luis Torres|12.10|Manana|35|Extraordinario|Biomedicas
+40001063|Carlos Diaz|18.70|Manana|28|Extraordinario|Biomedicas
+40001064|Maria Lopez|63.44|Tarde|20|Ordinario|Ingenierias
+40001065|Juan Soto|58.63|Manana|19|CEPREUNSA|Sociales
+40001066|Carla Flores|63.97|Manana|21|Ordinario|Ingenierias
+40001067|Pedro Quispe|54.07|Tarde|36|Ordinario|Sociales
+40001068|Lucia Ramos|48.72|Manana|19|CEPRE 5TOS|Biomedicas
+40001069|Diego Mamani|53.83|Manana|45|CEPRE 5TOS|Sociales
+40001070|Sofia Vargas|86.35|Tarde|38|CEPREUNSA|Biomedicas
+40001071|Jose Condori|32.22|Tarde|21|Ordinario|Biomedicas
+40001072|Valeria Huaman|29.49|Tarde|5|Extraordinario|Ingenierias
+40001073|Miguel Apaza|61.92|Manana|44|Extraordinario|Sociales
+40001074|Daniela Choque|9.11|Tarde|32|Ordinario|Biomedicas
+40001075|Andres Paredes|67.74|Tarde|37|CEPREUNSA|Sociales
+40001076|Camila Nina|80.42|Tarde|16|Ordinario|Sociales
+40001077|Jorge Calla|61.74|Manana|28|Ordinario|Ingenierias
+40001078|Fernanda Lima|88.43|Manana|39|CEPREUNSA|Ingenierias
+40001079|Alonso Ticona|70.14|Manana|25|CEPRE 5TOS|Sociales
+40001080|Gabriela Flores|50.59|Tarde|36|CEPRE 5TOS|Biomedicas
+40001081|Ana Perez|86.61|Tarde|23|CEPREUNSA|Ingenierias
+40001082|Luis Torres|26.56|Tarde|7|Extraordinario|Sociales
+40001083|Carlos Diaz|94.00|Tarde|16|CEPRE 5TOS|Biomedicas
+40001084|Maria Lopez|45.79|Manana|26|Extraordinario|Ingenierias
+40001085|Juan Soto|12.39|Manana|12|CEPREUNSA|Sociales
+40001086|Carla Flores|15.64|Manana|28|CEPREUNSA|Biomedicas
+40001087|Pedro Quispe|35.12|Tarde|9|Ordinario|Biomedicas
+40001088|Lucia Ramos|91.20|Tarde|32|CEPREUNSA|Ingenierias
+40001089|Diego Mamani|55.91|Manana|36|CEPREUNSA|Biomedicas
+40001090|Sofia Vargas|24.95|Manana|42|CEPRE 5TOS|Biomedicas
+40001091|Jose Condori|98.18|Manana|31|Extraordinario|Biomedicas
+40001092|Valeria Huaman|5.71|Tarde|9|CEPREUNSA|Sociales
+40001093|Miguel Apaza|7.84|Tarde|19|Extraordinario|Sociales
+40001094|Daniela Choque|84.09|Manana|6|CEPRE 5TOS|Ingenierias
+40001095|Andres Paredes|82.87|Tarde|20|CEPRE 5TOS|Ingenierias
+40001096|Camila Nina|57.84|Tarde|40|CEPREUNSA|Biomedicas
+40001097|Jorge Calla|62.67|Tarde|36|CEPREUNSA|Sociales
+40001098|Fernanda Lima|63.68|Tarde|22|Extraordinario|Ingenierias
+40001099|Alonso Ticona|79.10|Manana|45|Extraordinario|Sociales
+40001100|Gabriela Flores|56.39|Tarde|16|Extraordinario|Biomedicas
+40001101|Ana Perez|64.59|Manana|10|Ordinario|Ingenierias
+40001102|Luis Torres|92.50|Tarde|45|Extraordinario|Ingenierias
+40001103|Carlos Diaz|11.53|Tarde|13|CEPRE 5TOS|Biomedicas
+40001104|Maria Lopez|97.37|Tarde|27|Ordinario|Ingenierias
+40001105|Juan Soto|75.50|Manana|40|Ordinario|Sociales
+40001106|Carla Flores|17.60|Tarde|16|CEPREUNSA|Sociales
+40001107|Pedro Quispe|14.72|Tarde|25|Extraordinario|Ingenierias
+40001108|Lucia Ramos|32.07|Tarde|19|Ordinario|Ingenierias
+40001109|Diego Mamani|41.65|Manana|35|CEPRE 5TOS|Biomedicas
+40001110|Sofia Vargas|85.85|Tarde|25|Ordinario|Ingenierias
+40001111|Jose Condori|38.46|Tarde|10|Ordinario|Ingenierias
+40001112|Valeria Huaman|87.12|Manana|15|Ordinario|Ingenierias
+40001113|Miguel Apaza|99.86|Manana|16|Ordinario|Biomedicas
+40001114|Daniela Choque|77.99|Manana|40|CEPREUNSA|Sociales
+40001115|Andres Paredes|88.47|Manana|27|CEPRE 5TOS|Biomedicas
+40001116|Camila Nina|12.06|Tarde|44|Ordinario|Biomedicas
+40001117|Jorge Calla|61.81|Tarde|4|CEPREUNSA|Biomedicas
+40001118|Fernanda Lima|61.05|Tarde|37|Extraordinario|Biomedicas
+40001119|Alonso Ticona|65.78|Tarde|39|CEPREUNSA|Ingenierias
+40001120|Gabriela Flores|30.98|Manana|24|CEPRE 5TOS|Sociales
+40001121|Ana Perez|18.41|Manana|3|Ordinario|Sociales
+40001122|Luis Torres|0.28|Manana|42|Extraordinario|Biomedicas
+40001123|Carlos Diaz|35.93|Tarde|13|Extraordinario|Biomedicas
+40001124|Maria Lopez|89.88|Tarde|44|Ordinario|Ingenierias
+40001125|Juan Soto|80.78|Tarde|26|Extraordinario|Biomedicas
+40001126|Carla Flores|58.79|Manana|8|Ordinario|Sociales
+40001127|Pedro Quispe|39.79|Manana|4|CEPRE 5TOS|Ingenierias
+40001128|Lucia Ramos|2.42|Manana|9|CEPRE 5TOS|Sociales
+40001129|Diego Mamani|74.35|Manana|44|Ordinario|Ingenierias
+40001130|Sofia Vargas|85.07|Manana|36|Extraordinario|Sociales
+40001131|Jose Condori|86.02|Manana|34|Extraordinario|Ingenierias
+40001132|Valeria Huaman|67.50|Manana|43|CEPREUNSA|Biomedicas
+40001133|Miguel Apaza|14.65|Manana|27|Ordinario|Biomedicas
+40001134|Daniela Choque|65.28|Tarde|34|Extraordinario|Sociales
+40001135|Andres Paredes|10.11|Manana|13|CEPREUNSA|Biomedicas
+40001136|Camila Nina|11.94|Tarde|29|CEPREUNSA|Ingenierias
+40001137|Jorge Calla|38.66|Manana|17|Ordinario|Ingenierias
+40001138|Fernanda Lima|76.52|Manana|13|Extraordinario|Biomedicas
+40001139|Alonso Ticona|84.99|Tarde|17|Ordinario|Sociales
+40001140|Gabriela Flores|48.95|Manana|4|CEPREUNSA|Biomedicas
+40001141|Ana Perez|41.63|Manana|38|Ordinario|Sociales
+40001142|Luis Torres|98.48|Manana|17|Extraordinario|Biomedicas
+40001143|Carlos Diaz|75.39|Tarde|4|CEPRE 5TOS|Sociales
+40001144|Maria Lopez|94.67|Tarde|9|CEPREUNSA|Sociales
+40001145|Juan Soto|27.95|Tarde|10|CEPRE 5TOS|Ingenierias
+40001146|Carla Flores|87.85|Tarde|45|CEPREUNSA|Sociales
+40001147|Pedro Quispe|13.94|Manana|45|Extraordinario|Ingenierias
+40001148|Lucia Ramos|22.17|Manana|4|Extraordinario|Ingenierias
+40001149|Diego Mamani|75.08|Manana|14|CEPRE 5TOS|Biomedicas
+40001150|Sofia Vargas|60.39|Manana|42|CEPRE 5TOS|Biomedicas
+40001151|Jose Condori|48.21|Tarde|19|Ordinario|Ingenierias
+40001152|Valeria Huaman|79.67|Manana|43|CEPREUNSA|Sociales
+40001153|Miguel Apaza|57.31|Manana|12|CEPRE 5TOS|Sociales
+40001154|Daniela Choque|47.08|Tarde|41|Ordinario|Biomedicas
+40001155|Andres Paredes|31.52|Manana|14|Extraordinario|Biomedicas
+40001156|Camila Nina|33.99|Manana|3|Extraordinario|Sociales
+40001157|Jorge Calla|83.93|Manana|6|CEPRE 5TOS|Ingenierias
+40001158|Fernanda Lima|93.84|Manana|15|Ordinario|Biomedicas
+40001159|Alonso Ticona|17.20|Tarde|26|CEPREUNSA|Ingenierias
+40001160|Gabriela Flores|9.64|Manana|4|CEPRE 5TOS|Sociales
+40001161|Ana Perez|18.09|Tarde|27|Extraordinario|Biomedicas
+40001162|Luis Torres|17.45|Tarde|5|CEPRE 5TOS|Ingenierias
+40001163|Carlos Diaz|61.01|Tarde|21|CEPRE 5TOS|Ingenierias
+40001164|Maria Lopez|19.43|Tarde|43|Extraordinario|Ingenierias
+40001165|Juan Soto|39.20|Manana|28|CEPRE 5TOS|Biomedicas
+40001166|Carla Flores|21.53|Tarde|41|Ordinario|Sociales
+40001167|Pedro Quispe|87.42|Manana|16|Ordinario|Sociales
+40001168|Lucia Ramos|5.64|Manana|5|Extraordinario|Biomedicas
+40001169|Diego Mamani|77.23|Tarde|44|Extraordinario|Biomedicas
+40001170|Sofia Vargas|6.67|Tarde|42|Ordinario|Ingenierias
+40001171|Jose Condori|39.97|Tarde|1|CEPREUNSA|Biomedicas
+40001172|Valeria Huaman|70.00|Tarde|25|CEPRE 5TOS|Ingenierias
+40001173|Miguel Apaza|9.36|Manana|19|CEPREUNSA|Sociales
+40001174|Daniela Choque|64.94|Manana|12|Ordinario|Sociales
+40001175|Andres Paredes|42.43|Tarde|9|Extraordinario|Ingenierias
+40001176|Camila Nina|47.78|Tarde|6|CEPREUNSA|Biomedicas
+40001177|Jorge Calla|66.15|Tarde|29|CEPRE 5TOS|Ingenierias
+40001178|Fernanda Lima|14.00|Manana|28|Extraordinario|Ingenierias
+40001179|Alonso Ticona|50.10|Manana|30|Ordinario|Ingenierias
+40001180|Gabriela Flores|74.87|Manana|16|CEPREUNSA|Biomedicas
+40001181|Ana Perez|86.91|Tarde|1|Extraordinario|Sociales
+40001182|Luis Torres|24.58|Manana|44|CEPREUNSA|Sociales
+40001183|Carlos Diaz|47.25|Tarde|43|CEPRE 5TOS|Biomedicas
+40001184|Maria Lopez|20.83|Manana|18|Ordinario|Sociales
+40001185|Juan Soto|15.85|Manana|26|CEPRE 5TOS|Biomedicas
+40001186|Carla Flores|1.87|Tarde|36|Extraordinario|Ingenierias
+40001187|Pedro Quispe|84.83|Tarde|41|CEPRE 5TOS|Biomedicas
+40001188|Lucia Ramos|28.52|Tarde|29|Ordinario|Ingenierias
+40001189|Diego Mamani|74.35|Tarde|5|Extraordinario|Sociales
+40001190|Sofia Vargas|65.00|Tarde|35|CEPREUNSA|Ingenierias
+40001191|Jose Condori|95.44|Manana|33|CEPRE 5TOS|Biomedicas
+40001192|Valeria Huaman|10.15|Manana|10|CEPREUNSA|Biomedicas
+40001193|Miguel Apaza|2.62|Manana|18|Extraordinario|Biomedicas
+40001194|Daniela Choque|53.38|Tarde|11|Extraordinario|Biomedicas
+40001195|Andres Paredes|5.87|Manana|34|Extraordinario|Ingenierias
+40001196|Camila Nina|93.61|Tarde|25|Ordinario|Biomedicas
+40001197|Jorge Calla|51.28|Tarde|6|CEPRE 5TOS|Biomedicas
+40001198|Fernanda Lima|55.53|Manana|37|Extraordinario|Sociales
+40001199|Alonso Ticona|32.34|Tarde|36|Ordinario|Sociales
+40001200|Gabriela Flores|54.35|Manana|25|Ordinario|Ingenierias
+40001201|Ana Perez|15.38|Manana|32|Ordinario|Biomedicas
+40001202|Luis Torres|50.53|Tarde|34|CEPREUNSA|Ingenierias
+40001203|Carlos Diaz|72.64|Tarde|24|Ordinario|Sociales
+40001204|Maria Lopez|1.87|Tarde|3|Extraordinario|Ingenierias
+40001205|Juan Soto|87.47|Manana|4|Extraordinario|Sociales
+40001206|Carla Flores|66.40|Tarde|3|Extraordinario|Sociales
+40001207|Pedro Quispe|75.93|Tarde|23|CEPREUNSA|Ingenierias
+40001208|Lucia Ramos|0.35|Tarde|34|CEPRE 5TOS|Ingenierias
+40001209|Diego Mamani|33.57|Manana|24|CEPREUNSA|Biomedicas
+40001210|Sofia Vargas|8.30|Tarde|32|Ordinario|Biomedicas
+40001211|Jose Condori|65.51|Manana|25|Ordinario|Ingenierias
+40001212|Valeria Huaman|62.53|Manana|7|Extraordinario|Ingenierias
+40001213|Miguel Apaza|67.59|Tarde|36|CEPREUNSA|Sociales
+40001214|Daniela Choque|17.97|Manana|38|CEPRE 5TOS|Biomedicas
+40001215|Andres Paredes|14.76|Tarde|2|Extraordinario|Ingenierias
+40001216|Camila Nina|20.19|Tarde|25|Extraordinario|Ingenierias
+40001217|Jorge Calla|0.74|Manana|41|CEPRE 5TOS|Ingenierias
+40001218|Fernanda Lima|97.86|Tarde|11|Ordinario|Ingenierias
+40001219|Alonso Ticona|88.18|Tarde|24|CEPREUNSA|Ingenierias
+40001220|Gabriela Flores|28.94|Manana|15|Ordinario|Ingenierias
+40001221|Ana Perez|98.83|Manana|26|Extraordinario|Sociales
+40001222|Luis Torres|95.71|Manana|11|CEPRE 5TOS|Sociales
+40001223|Carlos Diaz|86.28|Tarde|23|Extraordinario|Sociales
+40001224|Maria Lopez|79.65|Tarde|9|Ordinario|Ingenierias
+40001225|Juan Soto|26.07|Manana|21|Extraordinario|Ingenierias
+40001226|Carla Flores|41.47|Manana|17|CEPRE 5TOS|Biomedicas
+40001227|Pedro Quispe|64.73|Tarde|40|CEPRE 5TOS|Ingenierias
+40001228|Lucia Ramos|15.29|Tarde|29|Ordinario|Biomedicas
+40001229|Diego Mamani|37.53|Tarde|19|Ordinario|Ingenierias
+40001230|Sofia Vargas|72.04|Manana|4|CEPRE 5TOS|Sociales
+40001231|Jose Condori|70.19|Tarde|12|Extraordinario|Biomedicas
+40001232|Valeria Huaman|95.53|Tarde|25|Ordinario|Ingenierias
+40001233|Miguel Apaza|34.54|Tarde|19|CEPREUNSA|Ingenierias
+40001234|Daniela Choque|64.48|Manana|23|CEPREUNSA|Sociales
+40001235|Andres Paredes|65.52|Tarde|30|CEPRE 5TOS|Sociales
+40001236|Camila Nina|97.59|Tarde|11|Extraordinario|Biomedicas
+40001237|Jorge Calla|13.31|Tarde|5|Ordinario|Sociales
+40001238|Fernanda Lima|82.13|Tarde|40|Ordinario|Biomedicas
+40001239|Alonso Ticona|28.14|Tarde|43|CEPRE 5TOS|Sociales
+40001240|Gabriela Flores|57.23|Manana|18|Extraordinario|Sociales
+40001241|Ana Perez|31.40|Manana|2|Extraordinario|Ingenierias
+40001242|Luis Torres|81.71|Manana|34|Extraordinario|Sociales
+40001243|Carlos Diaz|38.43|Manana|40|CEPRE 5TOS|Ingenierias
+40001244|Maria Lopez|28.65|Tarde|28|Ordinario|Biomedicas
+40001245|Juan Soto|29.11|Tarde|30|CEPRE 5TOS|Sociales
+40001246|Carla Flores|24.70|Manana|33|Ordinario|Biomedicas
+40001247|Pedro Quispe|37.31|Manana|15|CEPREUNSA|Biomedicas
+40001248|Lucia Ramos|52.95|Tarde|3|CEPRE 5TOS|Biomedicas
+40001249|Diego Mamani|0.69|Manana|27|Ordinario|Biomedicas
+40001250|Sofia Vargas|66.52|Manana|16|CEPRE 5TOS|Ingenierias
+40001251|Jose Condori|33.45|Tarde|19|CEPREUNSA|Sociales
+40001252|Valeria Huaman|19.87|Manana|13|Extraordinario|Ingenierias
+40001253|Miguel Apaza|97.18|Manana|26|CEPRE 5TOS|Ingenierias
+40001254|Daniela Choque|32.28|Manana|38|CEPRE 5TOS|Biomedicas
+40001255|Andres Paredes|31.28|Manana|7|CEPREUNSA|Ingenierias
+40001256|Camila Nina|41.47|Manana|20|CEPREUNSA|Ingenierias
+40001257|Jorge Calla|70.66|Tarde|7|Ordinario|Ingenierias
+40001258|Fernanda Lima|47.23|Tarde|3|Extraordinario|Biomedicas
+40001259|Alonso Ticona|32.20|Tarde|33|CEPREUNSA|Sociales
+40001260|Gabriela Flores|82.28|Manana|20|Ordinario|Ingenierias
+40001261|Ana Perez|32.33|Tarde|7|CEPREUNSA|Sociales
+40001262|Luis Torres|43.36|Manana|13|Ordinario|Sociales
+40001263|Carlos Diaz|86.77|Manana|41|Extraordinario|Sociales
+40001264|Maria Lopez|19.60|Manana|30|Ordinario|Sociales
+40001265|Juan Soto|33.63|Manana|17|Ordinario|Ingenierias
+40001266|Carla Flores|8.04|Manana|26|Ordinario|Biomedicas
+40001267|Pedro Quispe|95.39|Tarde|21|Ordinario|Ingenierias
+40001268|Lucia Ramos|52.19|Manana|15|Extraordinario|Biomedicas
+40001269|Diego Mamani|19.81|Tarde|22|Extraordinario|Biomedicas
+40001270|Sofia Vargas|70.67|Manana|22|Extraordinario|Ingenierias
+40001271|Jose Condori|35.44|Manana|33|CEPRE 5TOS|Biomedicas
+40001272|Valeria Huaman|5.59|Tarde|27|CEPRE 5TOS|Sociales
+40001273|Miguel Apaza|67.64|Manana|18|CEPREUNSA|Biomedicas
+40001274|Daniela Choque|2.81|Manana|10|CEPRE 5TOS|Ingenierias
+40001275|Andres Paredes|18.67|Manana|41|CEPRE 5TOS|Sociales
+40001276|Camila Nina|94.04|Tarde|4|Ordinario|Ingenierias
+40001277|Jorge Calla|48.77|Tarde|36|CEPREUNSA|Sociales
+40001278|Fernanda Lima|82.22|Manana|7|CEPRE 5TOS|Ingenierias
+40001279|Alonso Ticona|67.91|Tarde|30|CEPRE 5TOS|Biomedicas
+40001280|Gabriela Flores|86.48|Manana|35|Ordinario|Biomedicas
+40001281|Ana Perez|23.07|Tarde|3|Ordinario|Sociales
+40001282|Luis Torres|82.75|Manana|33|CEPREUNSA|Ingenierias
+40001283|Carlos Diaz|51.33|Tarde|5|CEPREUNSA|Ingenierias
+40001284|Maria Lopez|59.82|Manana|30|CEPREUNSA|Biomedicas
+40001285|Juan Soto|61.88|Tarde|16|Extraordinario|Sociales
+40001286|Carla Flores|1.69|Manana|26|CEPREUNSA|Ingenierias
+40001287|Pedro Quispe|84.83|Manana|1|CEPRE 5TOS|Biomedicas
+40001288|Lucia Ramos|77.16|Tarde|34|CEPREUNSA|Biomedicas
+40001289|Diego Mamani|59.02|Tarde|6|CEPRE 5TOS|Biomedicas
+40001290|Sofia Vargas|37.94|Manana|26|Ordinario|Sociales
+40001291|Jose Condori|31.49|Manana|29|Ordinario|Ingenierias
+40001292|Valeria Huaman|10.93|Tarde|41|Ordinario|Sociales
+40001293|Miguel Apaza|47.80|Manana|12|CEPRE 5TOS|Sociales
+40001294|Daniela Choque|37.23|Tarde|15|Ordinario|Biomedicas
+40001295|Andres Paredes|37.32|Manana|39|Extraordinario|Sociales
+40001296|Camila Nina|41.85|Manana|18|CEPRE 5TOS|Ingenierias
+40001297|Jorge Calla|18.05|Manana|19|Extraordinario|Sociales
+40001298|Fernanda Lima|39.49|Manana|14|Extraordinario|Biomedicas
+40001299|Alonso Ticona|79.27|Manana|37|CEPRE 5TOS|Sociales
+40001300|Gabriela Flores|93.51|Tarde|2|CEPREUNSA|Sociales
+40001301|Ana Perez|72.71|Tarde|32|Ordinario|Biomedicas
+40001302|Luis Torres|78.97|Tarde|20|CEPRE 5TOS|Biomedicas
+40001303|Carlos Diaz|26.06|Tarde|9|Extraordinario|Biomedicas
+40001304|Maria Lopez|90.33|Manana|2|CEPRE 5TOS|Biomedicas
+40001305|Juan Soto|25.26|Manana|10|Extraordinario|Biomedicas
+40001306|Carla Flores|56.41|Tarde|16|Extraordinario|Biomedicas
+40001307|Pedro Quispe|52.53|Manana|21|CEPREUNSA|Sociales
+40001308|Lucia Ramos|23.04|Manana|15|CEPRE 5TOS|Sociales
+40001309|Diego Mamani|20.87|Tarde|17|CEPRE 5TOS|Biomedicas
+40001310|Sofia Vargas|27.59|Tarde|44|Extraordinario|Sociales
+40001311|Jose Condori|99.63|Manana|29|CEPREUNSA|Biomedicas
+40001312|Valeria Huaman|22.83|Tarde|30|CEPRE 5TOS|Ingenierias
+40001313|Miguel Apaza|25.31|Tarde|29|CEPREUNSA|Biomedicas
+40001314|Daniela Choque|31.77|Manana|40|Extraordinario|Biomedicas
+40001315|Andres Paredes|31.24|Manana|16|CEPREUNSA|Sociales
+40001316|Camila Nina|91.17|Tarde|29|Ordinario|Ingenierias
+40001317|Jorge Calla|49.38|Manana|24|Extraordinario|Biomedicas
+40001318|Fernanda Lima|99.53|Manana|38|Ordinario|Ingenierias
+40001319|Alonso Ticona|12.95|Tarde|2|Extraordinario|Sociales
+40001320|Gabriela Flores|92.77|Manana|1|CEPREUNSA|Biomedicas
+40001321|Ana Perez|69.14|Tarde|6|CEPREUNSA|Ingenierias
+40001322|Luis Torres|47.36|Manana|11|CEPRE 5TOS|Ingenierias
+40001323|Carlos Diaz|35.02|Manana|30|Extraordinario|Biomedicas
+40001324|Maria Lopez|62.07|Manana|41|Ordinario|Biomedicas
+40001325|Juan Soto|96.12|Manana|37|CEPREUNSA|Biomedicas
+40001326|Carla Flores|1.85|Manana|10|CEPRE 5TOS|Ingenierias
+40001327|Pedro Quispe|70.70|Tarde|15|CEPREUNSA|Ingenierias
+40001328|Lucia Ramos|0.53|Manana|21|Ordinario|Sociales
+40001329|Diego Mamani|7.84|Tarde|14|CEPRE 5TOS|Ingenierias
+40001330|Sofia Vargas|24.04|Tarde|45|Extraordinario|Biomedicas
+40001331|Jose Condori|18.49|Tarde|19|Ordinario|Ingenierias
+40001332|Valeria Huaman|64.31|Manana|38|CEPREUNSA|Sociales
+40001333|Miguel Apaza|36.33|Tarde|21|CEPRE 5TOS|Biomedicas
+40001334|Daniela Choque|83.52|Manana|33|Extraordinario|Ingenierias
+40001335|Andres Paredes|47.89|Tarde|4|CEPRE 5TOS|Sociales
+40001336|Camila Nina|50.68|Manana|1|CEPREUNSA|Biomedicas
+40001337|Jorge Calla|84.91|Tarde|8|Extraordinario|Biomedicas
+40001338|Fernanda Lima|42.71|Manana|11|Extraordinario|Sociales
+40001339|Alonso Ticona|0.24|Manana|37|Extraordinario|Ingenierias
+40001340|Gabriela Flores|14.06|Manana|11|CEPRE 5TOS|Sociales
+40001341|Ana Perez|84.92|Manana|9|CEPRE 5TOS|Ingenierias
+40001342|Luis Torres|35.73|Manana|9|Ordinario|Ingenierias
+40001343|Carlos Diaz|91.64|Manana|43|Extraordinario|Biomedicas
+40001344|Maria Lopez|71.79|Manana|36|Extraordinario|Ingenierias
+40001345|Juan Soto|86.11|Manana|8|Ordinario|Sociales
+40001346|Carla Flores|51.01|Manana|14|Extraordinario|Sociales
+40001347|Pedro Quispe|29.00|Manana|32|CEPREUNSA|Biomedicas
+40001348|Lucia Ramos|25.68|Manana|39|Extraordinario|Biomedicas
+40001349|Diego Mamani|40.32|Tarde|3|Extraordinario|Biomedicas
+40001350|Sofia Vargas|85.49|Tarde|6|Extraordinario|Biomedicas
+40001351|Jose Condori|25.19|Manana|36|Extraordinario|Ingenierias
+40001352|Valeria Huaman|33.89|Tarde|9|CEPRE 5TOS|Sociales
+40001353|Miguel Apaza|22.02|Tarde|25|CEPRE 5TOS|Sociales
+40001354|Daniela Choque|46.10|Tarde|20|Ordinario|Biomedicas
+40001355|Andres Paredes|6.68|Manana|36|Extraordinario|Ingenierias
+40001356|Camila Nina|75.83|Manana|10|Extraordinario|Sociales
+40001357|Jorge Calla|60.65|Manana|23|Extraordinario|Sociales
+40001358|Fernanda Lima|43.22|Manana|38|Ordinario|Sociales
+40001359|Alonso Ticona|55.19|Tarde|37|Ordinario|Biomedicas
+40001360|Gabriela Flores|93.70|Tarde|2|CEPRE 5TOS|Ingenierias
+40001361|Ana Perez|14.92|Manana|28|Extraordinario|Ingenierias
+40001362|Luis Torres|18.48|Tarde|41|Extraordinario|Biomedicas
+40001363|Carlos Diaz|96.65|Manana|29|Ordinario|Ingenierias
+40001364|Maria Lopez|2.21|Tarde|43|CEPRE 5TOS|Ingenierias
+40001365|Juan Soto|62.26|Tarde|9|CEPRE 5TOS|Biomedicas
+40001366|Carla Flores|38.13|Tarde|5|Ordinario|Sociales
+40001367|Pedro Quispe|68.20|Tarde|28|CEPREUNSA|Sociales
+40001368|Lucia Ramos|40.38|Manana|8|CEPREUNSA|Biomedicas
+40001369|Diego Mamani|16.13|Manana|33|Ordinario|Biomedicas
+40001370|Sofia Vargas|39.55|Tarde|3|CEPRE 5TOS|Sociales
+40001371|Jose Condori|2.41|Tarde|23|Extraordinario|Sociales
+40001372|Valeria Huaman|39.59|Manana|11|Extraordinario|Ingenierias
+40001373|Miguel Apaza|57.65|Manana|15|CEPREUNSA|Ingenierias
+40001374|Daniela Choque|29.42|Tarde|42|CEPRE 5TOS|Sociales
+40001375|Andres Paredes|31.66|Manana|28|CEPRE 5TOS|Biomedicas
+40001376|Camila Nina|79.70|Tarde|34|Ordinario|Ingenierias
+40001377|Jorge Calla|85.77|Manana|17|Extraordinario|Sociales
+40001378|Fernanda Lima|18.61|Manana|19|Extraordinario|Sociales
+40001379|Alonso Ticona|12.70|Tarde|35|CEPREUNSA|Sociales
+40001380|Gabriela Flores|33.49|Manana|1|Extraordinario|Ingenierias
+40001381|Ana Perez|2.73|Manana|6|CEPRE 5TOS|Ingenierias
+40001382|Luis Torres|78.71|Tarde|12|CEPRE 5TOS|Biomedicas
+40001383|Carlos Diaz|17.94|Tarde|21|Ordinario|Sociales
+40001384|Maria Lopez|90.51|Manana|36|CEPREUNSA|Biomedicas
+40001385|Juan Soto|49.52|Tarde|23|Ordinario|Ingenierias
+40001386|Carla Flores|95.50|Manana|9|Extraordinario|Ingenierias
+40001387|Pedro Quispe|61.61|Manana|31|CEPRE 5TOS|Biomedicas
+40001388|Lucia Ramos|54.17|Manana|29|CEPREUNSA|Sociales
+40001389|Diego Mamani|82.02|Manana|26|CEPRE 5TOS|Sociales
+40001390|Sofia Vargas|46.52|Manana|41|CEPRE 5TOS|Biomedicas
+40001391|Jose Condori|0.05|Tarde|25|Ordinario|Biomedicas
+40001392|Valeria Huaman|3.40|Tarde|26|CEPRE 5TOS|Sociales
+40001393|Miguel Apaza|29.88|Tarde|38|CEPREUNSA|Biomedicas
+40001394|Daniela Choque|92.25|Tarde|33|CEPREUNSA|Biomedicas
+40001395|Andres Paredes|64.52|Tarde|18|Ordinario|Sociales
+40001396|Camila Nina|53.27|Manana|2|Ordinario|Ingenierias
+40001397|Jorge Calla|88.37|Tarde|17|Extraordinario|Biomedicas
+40001398|Fernanda Lima|97.64|Manana|36|Ordinario|Sociales
+40001399|Alonso Ticona|62.98|Manana|10|CEPREUNSA|Sociales
+40001400|Gabriela Flores|40.01|Manana|45|Ordinario|Ingenierias
+40001401|Ana Perez|54.29|Manana|28|Ordinario|Biomedicas
+40001402|Luis Torres|9.25|Manana|40|Ordinario|Biomedicas
+40001403|Carlos Diaz|24.62|Tarde|29|Extraordinario|Ingenierias
+40001404|Maria Lopez|19.13|Tarde|33|Extraordinario|Sociales
+40001405|Juan Soto|90.82|Manana|31|Ordinario|Biomedicas
+40001406|Carla Flores|89.28|Tarde|30|CEPREUNSA|Ingenierias
+40001407|Pedro Quispe|22.19|Manana|43|CEPREUNSA|Ingenierias
+40001408|Lucia Ramos|42.62|Manana|33|CEPRE 5TOS|Ingenierias
+40001409|Diego Mamani|80.50|Manana|11|Ordinario|Ingenierias
+40001410|Sofia Vargas|97.10|Manana|7|CEPRE 5TOS|Sociales
+40001411|Jose Condori|41.63|Tarde|4|Extraordinario|Sociales
+40001412|Valeria Huaman|74.06|Manana|33|CEPRE 5TOS|Ingenierias
+40001413|Miguel Apaza|87.17|Tarde|7|CEPREUNSA|Biomedicas
+40001414|Daniela Choque|42.81|Manana|39|Extraordinario|Ingenierias
+40001415|Andres Paredes|76.00|Manana|29|Ordinario|Sociales
+40001416|Camila Nina|90.47|Tarde|45|Extraordinario|Biomedicas
+40001417|Jorge Calla|63.89|Manana|23|CEPRE 5TOS|Ingenierias
+40001418|Fernanda Lima|61.52|Tarde|19|Extraordinario|Sociales
+40001419|Alonso Ticona|16.30|Manana|20|Extraordinario|Biomedicas
+40001420|Gabriela Flores|66.98|Tarde|44|Ordinario|Sociales
+40001421|Ana Perez|17.56|Manana|23|CEPREUNSA|Biomedicas
+40001422|Luis Torres|0.92|Manana|24|CEPRE 5TOS|Sociales
+40001423|Carlos Diaz|38.80|Manana|35|Ordinario|Sociales
+40001424|Maria Lopez|32.78|Manana|1|CEPRE 5TOS|Biomedicas
+40001425|Juan Soto|28.10|Manana|3|Ordinario|Ingenierias
+40001426|Carla Flores|65.60|Tarde|21|Extraordinario|Biomedicas
+40001427|Pedro Quispe|4.37|Manana|3|Extraordinario|Sociales
+40001428|Lucia Ramos|79.49|Tarde|4|CEPRE 5TOS|Sociales
+40001429|Diego Mamani|54.07|Tarde|33|CEPREUNSA|Sociales
+40001430|Sofia Vargas|50.67|Manana|1|Ordinario|Sociales
+40001431|Jose Condori|89.11|Tarde|23|CEPREUNSA|Sociales
+40001432|Valeria Huaman|67.45|Tarde|45|CEPREUNSA|Ingenierias
+40001433|Miguel Apaza|12.61|Tarde|4|CEPREUNSA|Ingenierias
+40001434|Daniela Choque|53.09|Manana|36|Ordinario|Sociales
+40001435|Andres Paredes|72.06|Tarde|20|CEPRE 5TOS|Sociales
+40001436|Camila Nina|1.14|Tarde|30|CEPREUNSA|Biomedicas
+40001437|Jorge Calla|61.90|Tarde|36|CEPRE 5TOS|Biomedicas
+40001438|Fernanda Lima|52.85|Manana|26|Ordinario|Biomedicas
+40001439|Alonso Ticona|96.99|Tarde|40|CEPREUNSA|Biomedicas
+40001440|Gabriela Flores|92.74|Tarde|7|CEPRE 5TOS|Biomedicas
+40001441|Ana Perez|28.59|Manana|4|Ordinario|Sociales
+40001442|Luis Torres|62.16|Tarde|12|CEPREUNSA|Biomedicas
+40001443|Carlos Diaz|59.40|Tarde|1|Extraordinario|Ingenierias
+40001444|Maria Lopez|36.60|Tarde|19|CEPRE 5TOS|Sociales
+40001445|Juan Soto|41.68|Tarde|10|Extraordinario|Biomedicas
+40001446|Carla Flores|64.03|Tarde|13|Ordinario|Biomedicas
+40001447|Pedro Quispe|57.67|Manana|33|CEPRE 5TOS|Sociales
+40001448|Lucia Ramos|51.94|Manana|21|CEPRE 5TOS|Biomedicas
+40001449|Diego Mamani|16.92|Tarde|11|CEPREUNSA|Sociales
+40001450|Sofia Vargas|43.00|Tarde|25|Ordinario|Biomedicas
+40001451|Jose Condori|43.91|Manana|45|Extraordinario|Ingenierias
+40001452|Valeria Huaman|6.33|Manana|13|Ordinario|Sociales
+40001453|Miguel Apaza|54.13|Manana|45|Extraordinario|Biomedicas
+40001454|Daniela Choque|49.16|Tarde|27|Ordinario|Sociales
+40001455|Andres Paredes|62.45|Tarde|22|CEPREUNSA|Sociales
+40001456|Camila Nina|73.82|Manana|11|Extraordinario|Ingenierias
+40001457|Jorge Calla|44.85|Manana|26|Extraordinario|Ingenierias
+40001458|Fernanda Lima|7.71|Manana|27|Ordinario|Biomedicas
+40001459|Alonso Ticona|31.28|Manana|33|CEPREUNSA|Sociales
+40001460|Gabriela Flores|60.54|Tarde|12|CEPREUNSA|Ingenierias
+40001461|Ana Perez|28.87|Manana|34|CEPREUNSA|Biomedicas
+40001462|Luis Torres|64.05|Tarde|39|Extraordinario|Biomedicas
+40001463|Carlos Diaz|98.13|Tarde|29|Extraordinario|Sociales
+40001464|Maria Lopez|41.04|Tarde|45|Ordinario|Ingenierias
+40001465|Juan Soto|12.16|Tarde|20|Ordinario|Biomedicas
+40001466|Carla Flores|93.49|Tarde|30|Extraordinario|Biomedicas
+40001467|Pedro Quispe|67.98|Tarde|40|CEPREUNSA|Sociales
+40001468|Lucia Ramos|60.61|Tarde|23|CEPRE 5TOS|Biomedicas
+40001469|Diego Mamani|89.99|Manana|42|CEPREUNSA|Ingenierias
+40001470|Sofia Vargas|33.39|Tarde|24|Extraordinario|Sociales
+40001471|Jose Condori|26.84|Tarde|28|CEPRE 5TOS|Sociales
+40001472|Valeria Huaman|15.96|Manana|19|Extraordinario|Ingenierias
+40001473|Miguel Apaza|87.01|Tarde|37|Extraordinario|Sociales
+40001474|Daniela Choque|28.06|Manana|42|CEPREUNSA|Biomedicas
+40001475|Andres Paredes|64.44|Manana|6|CEPREUNSA|Ingenierias
+40001476|Camila Nina|93.20|Tarde|35|Ordinario|Sociales
+40001477|Jorge Calla|64.28|Manana|9|Ordinario|Sociales
+40001478|Fernanda Lima|38.98|Tarde|44|CEPREUNSA|Biomedicas
+40001479|Alonso Ticona|46.51|Tarde|4|CEPRE 5TOS|Biomedicas
+40001480|Gabriela Flores|69.57|Manana|34|Extraordinario|Biomedicas
+40001481|Ana Perez|17.92|Tarde|9|Ordinario|Sociales
+40001482|Luis Torres|57.51|Tarde|4|CEPRE 5TOS|Biomedicas
+40001483|Carlos Diaz|21.69|Manana|2|CEPRE 5TOS|Sociales
+40001484|Maria Lopez|39.70|Tarde|33|Ordinario|Biomedicas
+40001485|Juan Soto|78.52|Manana|15|Ordinario|Biomedicas
+40001486|Carla Flores|9.28|Manana|25|Ordinario|Sociales
+40001487|Pedro Quispe|12.80|Tarde|19|CEPREUNSA|Sociales
+40001488|Lucia Ramos|39.64|Manana|4|CEPREUNSA|Ingenierias
+40001489|Diego Mamani|40.05|Tarde|24|Extraordinario|Ingenierias
+40001490|Sofia Vargas|98.03|Tarde|12|CEPREUNSA|Ingenierias
+40001491|Jose Condori|34.08|Tarde|8|Ordinario|Biomedicas
+40001492|Valeria Huaman|38.53|Tarde|18|Extraordinario|Ingenierias
+40001493|Miguel Apaza|53.22|Manana|2|CEPREUNSA|Ingenierias
+40001494|Daniela Choque|9.97|Tarde|24|CEPREUNSA|Ingenierias
+40001495|Andres Paredes|42.27|Manana|22|Extraordinario|Sociales
+40001496|Camila Nina|31.07|Manana|41|CEPRE 5TOS|Sociales
+40001497|Jorge Calla|90.66|Tarde|28|CEPREUNSA|Biomedicas
+40001498|Fernanda Lima|6.64|Manana|22|CEPRE 5TOS|Ingenierias
+40001499|Alonso Ticona|39.93|Manana|21|Extraordinario|Sociales
+40001500|Gabriela Flores|25.02|Tarde|7|CEPREUNSA|Ingenierias
+40001501|Ana Perez|24.63|Manana|14|CEPRE 5TOS|Ingenierias
+40001502|Luis Torres|91.96|Tarde|13|Ordinario|Biomedicas
+40001503|Carlos Diaz|77.20|Manana|35|Ordinario|Biomedicas
+40001504|Maria Lopez|10.92|Tarde|3|Extraordinario|Sociales
+40001505|Juan Soto|3.25|Manana|14|CEPRE 5TOS|Biomedicas
+40001506|Carla Flores|98.54|Tarde|17|Ordinario|Sociales
+40001507|Pedro Quispe|44.13|Tarde|10|CEPRE 5TOS|Ingenierias
+40001508|Lucia Ramos|9.29|Manana|6|Ordinario|Ingenierias
+40001509|Diego Mamani|5.78|Tarde|37|CEPREUNSA|Sociales
+40001510|Sofia Vargas|86.29|Manana|12|CEPRE 5TOS|Ingenierias
+40001511|Jose Condori|57.65|Tarde|31|CEPREUNSA|Ingenierias
+40001512|Valeria Huaman|45.86|Manana|42|Extraordinario|Ingenierias
+40001513|Miguel Apaza|27.21|Tarde|38|Ordinario|Ingenierias
+40001514|Daniela Choque|91.93|Manana|14|CEPRE 5TOS|Ingenierias
+40001515|Andres Paredes|23.83|Manana|12|CEPRE 5TOS|Ingenierias
+40001516|Camila Nina|50.00|Tarde|14|Ordinario|Sociales
+40001517|Jorge Calla|68.22|Tarde|24|Ordinario|Biomedicas
+40001518|Fernanda Lima|33.20|Manana|4|Extraordinario|Ingenierias
+40001519|Alonso Ticona|85.00|Manana|29|CEPRE 5TOS|Ingenierias
+40001520|Gabriela Flores|65.28|Manana|44|CEPRE 5TOS|Biomedicas
+40001521|Ana Perez|8.79|Manana|32|CEPRE 5TOS|Biomedicas
+40001522|Luis Torres|73.09|Manana|10|CEPREUNSA|Sociales
+40001523|Carlos Diaz|20.49|Tarde|32|CEPRE 5TOS|Ingenierias
+40001524|Maria Lopez|79.67|Manana|30|Ordinario|Biomedicas
+40001525|Juan Soto|20.47|Tarde|7|CEPREUNSA|Biomedicas
+40001526|Carla Flores|71.80|Manana|37|CEPREUNSA|Sociales
+40001527|Pedro Quispe|44.63|Manana|36|CEPRE 5TOS|Sociales
+40001528|Lucia Ramos|38.36|Manana|45|Ordinario|Sociales
+40001529|Diego Mamani|83.65|Manana|29|CEPRE 5TOS|Ingenierias
+40001530|Sofia Vargas|94.11|Manana|40|CEPRE 5TOS|Biomedicas
+40001531|Jose Condori|31.95|Manana|42|Ordinario|Sociales
+40001532|Valeria Huaman|33.28|Tarde|40|Ordinario|Biomedicas
+40001533|Miguel Apaza|87.28|Manana|39|Extraordinario|Biomedicas
+40001534|Daniela Choque|77.11|Tarde|38|Extraordinario|Sociales
+40001535|Andres Paredes|51.71|Tarde|24|CEPREUNSA|Ingenierias
+40001536|Camila Nina|6.65|Manana|8|CEPREUNSA|Ingenierias
+40001537|Jorge Calla|64.77|Tarde|2|CEPRE 5TOS|Ingenierias
+40001538|Fernanda Lima|31.26|Manana|45|Ordinario|Sociales
+40001539|Alonso Ticona|79.95|Manana|17|CEPREUNSA|Ingenierias
+40001540|Gabriela Flores|26.50|Tarde|20|CEPRE 5TOS|Sociales
+40001541|Ana Perez|97.05|Manana|29|Ordinario|Biomedicas
+40001542|Luis Torres|53.53|Tarde|28|CEPRE 5TOS|Ingenierias
+40001543|Carlos Diaz|25.32|Tarde|11|CEPRE 5TOS|Ingenierias
+40001544|Maria Lopez|51.54|Manana|8|CEPRE 5TOS|Ingenierias
+40001545|Juan Soto|8.92|Tarde|40|CEPRE 5TOS|Sociales
+40001546|Carla Flores|4.13|Manana|40|CEPRE 5TOS|Ingenierias
+40001547|Pedro Quispe|53.58|Tarde|17|CEPREUNSA|Ingenierias
+40001548|Lucia Ramos|67.96|Manana|35|CEPRE 5TOS|Sociales
+40001549|Diego Mamani|48.82|Tarde|36|CEPRE 5TOS|Ingenierias
+40001550|Sofia Vargas|64.41|Manana|11|Ordinario|Biomedicas
+40001551|Jose Condori|79.23|Manana|29|Extraordinario|Ingenierias
+40001552|Valeria Huaman|11.25|Tarde|34|Extraordinario|Sociales
+40001553|Miguel Apaza|2.98|Tarde|12|CEPREUNSA|Sociales
+40001554|Daniela Choque|95.43|Tarde|24|Extraordinario|Biomedicas
+40001555|Andres Paredes|82.32|Tarde|42|CEPRE 5TOS|Ingenierias
+40001556|Camila Nina|6.71|Tarde|23|CEPRE 5TOS|Sociales
+40001557|Jorge Calla|93.77|Manana|12|CEPRE 5TOS|Ingenierias
+40001558|Fernanda Lima|68.57|Tarde|20|Extraordinario|Biomedicas
+40001559|Alonso Ticona|9.92|Manana|26|CEPRE 5TOS|Biomedicas
+40001560|Gabriela Flores|74.48|Manana|22|Ordinario|Ingenierias
+40001561|Ana Perez|2.32|Manana|22|CEPRE 5TOS|Biomedicas
+40001562|Luis Torres|63.51|Tarde|10|CEPREUNSA|Sociales
+40001563|Carlos Diaz|50.92|Tarde|4|CEPREUNSA|Biomedicas
+40001564|Maria Lopez|3.56|Tarde|39|Extraordinario|Biomedicas
+40001565|Juan Soto|91.20|Manana|45|CEPRE 5TOS|Sociales
+40001566|Carla Flores|59.75|Manana|9|Extraordinario|Sociales
+40001567|Pedro Quispe|97.68|Tarde|42|CEPRE 5TOS|Ingenierias
+40001568|Lucia Ramos|73.28|Manana|44|CEPRE 5TOS|Sociales
+40001569|Diego Mamani|57.70|Manana|38|Ordinario|Sociales
+40001570|Sofia Vargas|86.91|Manana|38|Ordinario|Biomedicas
+40001571|Jose Condori|4.10|Manana|16|CEPREUNSA|Ingenierias
+40001572|Valeria Huaman|30.30|Manana|33|Ordinario|Ingenierias
+40001573|Miguel Apaza|74.20|Tarde|36|Ordinario|Ingenierias
+40001574|Daniela Choque|96.16|Tarde|9|Extraordinario|Ingenierias
+40001575|Andres Paredes|99.62|Manana|14|CEPREUNSA|Sociales
+40001576|Camila Nina|68.45|Manana|34|Ordinario|Sociales
+40001577|Jorge Calla|11.71|Tarde|6|Extraordinario|Sociales
+40001578|Fernanda Lima|47.51|Manana|23|CEPREUNSA|Ingenierias
+40001579|Alonso Ticona|85.59|Tarde|41|CEPRE 5TOS|Sociales
+40001580|Gabriela Flores|84.84|Manana|34|Extraordinario|Ingenierias
+40001581|Ana Perez|85.50|Manana|10|CEPREUNSA|Sociales
+40001582|Luis Torres|92.85|Tarde|38|Extraordinario|Sociales
+40001583|Carlos Diaz|24.07|Manana|40|CEPRE 5TOS|Ingenierias
+40001584|Maria Lopez|42.60|Manana|17|CEPREUNSA|Biomedicas
+40001585|Juan Soto|16.53|Manana|31|Ordinario|Ingenierias
+40001586|Carla Flores|53.53|Tarde|37|Ordinario|Biomedicas
+40001587|Pedro Quispe|88.68|Manana|6|CEPREUNSA|Ingenierias
+40001588|Lucia Ramos|95.39|Manana|42|CEPRE 5TOS|Sociales
+40001589|Diego Mamani|35.06|Tarde|23|CEPREUNSA|Sociales
+40001590|Sofia Vargas|26.00|Tarde|5|CEPREUNSA|Sociales
+40001591|Jose Condori|60.39|Tarde|5|Extraordinario|Sociales
+40001592|Valeria Huaman|2.19|Manana|4|CEPREUNSA|Ingenierias
+40001593|Miguel Apaza|77.16|Manana|42|Ordinario|Sociales
+40001594|Daniela Choque|85.99|Manana|42|Extraordinario|Biomedicas
+40001595|Andres Paredes|7.74|Manana|32|Extraordinario|Biomedicas
+40001596|Camila Nina|64.24|Tarde|6|CEPRE 5TOS|Sociales
+40001597|Jorge Calla|32.11|Manana|15|Ordinario|Sociales
+40001598|Fernanda Lima|78.81|Tarde|30|Ordinario|Sociales
+40001599|Alonso Ticona|40.29|Tarde|45|Extraordinario|Ingenierias
+40001600|Gabriela Flores|29.22|Tarde|21|Ordinario|Biomedicas
+40001601|Ana Perez|32.69|Manana|39|CEPREUNSA|Ingenierias
+40001602|Luis Torres|94.57|Manana|18|CEPREUNSA|Ingenierias
+40001603|Carlos Diaz|41.87|Tarde|4|CEPREUNSA|Sociales
+40001604|Maria Lopez|57.02|Tarde|35|CEPREUNSA|Ingenierias
+40001605|Juan Soto|25.39|Manana|39|CEPRE 5TOS|Ingenierias
+40001606|Carla Flores|55.98|Manana|19|Ordinario|Biomedicas
+40001607|Pedro Quispe|79.43|Manana|8|CEPRE 5TOS|Biomedicas
+40001608|Lucia Ramos|30.76|Tarde|38|Ordinario|Ingenierias
+40001609|Diego Mamani|73.92|Tarde|32|CEPRE 5TOS|Biomedicas
+40001610|Sofia Vargas|43.69|Tarde|19|Extraordinario|Ingenierias
+40001611|Jose Condori|63.52|Manana|12|CEPREUNSA|Ingenierias
+40001612|Valeria Huaman|3.95|Manana|26|Extraordinario|Biomedicas
+40001613|Miguel Apaza|75.47|Manana|31|Extraordinario|Sociales
+40001614|Daniela Choque|59.20|Manana|5|Ordinario|Sociales
+40001615|Andres Paredes|24.65|Manana|12|Ordinario|Sociales
+40001616|Camila Nina|29.41|Tarde|41|Extraordinario|Sociales
+40001617|Jorge Calla|63.85|Manana|2|CEPRE 5TOS|Sociales
+40001618|Fernanda Lima|66.98|Tarde|20|Extraordinario|Biomedicas
+40001619|Alonso Ticona|22.68|Tarde|34|Ordinario|Ingenierias
+40001620|Gabriela Flores|3.28|Manana|26|Ordinario|Biomedicas
+40001621|Ana Perez|67.03|Tarde|13|Ordinario|Sociales
+40001622|Luis Torres|29.65|Tarde|8|CEPREUNSA|Ingenierias
+40001623|Carlos Diaz|58.42|Tarde|44|CEPREUNSA|Biomedicas
+40001624|Maria Lopez|3.98|Manana|23|CEPREUNSA|Sociales
+40001625|Juan Soto|47.13|Manana|9|Ordinario|Sociales
+40001626|Carla Flores|55.04|Manana|33|Ordinario|Sociales
+40001627|Pedro Quispe|95.34|Tarde|18|Ordinario|Sociales
+40001628|Lucia Ramos|94.86|Tarde|5|Extraordinario|Ingenierias
+40001629|Diego Mamani|11.48|Manana|34|CEPRE 5TOS|Sociales
+40001630|Sofia Vargas|56.75|Tarde|31|CEPRE 5TOS|Biomedicas
+40001631|Jose Condori|99.37|Manana|22|Ordinario|Sociales
+40001632|Valeria Huaman|16.84|Manana|6|CEPREUNSA|Ingenierias
+40001633|Miguel Apaza|68.61|Tarde|36|CEPREUNSA|Biomedicas
+40001634|Daniela Choque|36.48|Tarde|44|CEPRE 5TOS|Ingenierias
+40001635|Andres Paredes|20.21|Manana|6|Extraordinario|Ingenierias
+40001636|Camila Nina|65.93|Tarde|5|CEPRE 5TOS|Biomedicas
+40001637|Jorge Calla|98.29|Tarde|30|Ordinario|Sociales
+40001638|Fernanda Lima|0.17|Tarde|9|Extraordinario|Biomedicas
+40001639|Alonso Ticona|53.12|Tarde|29|CEPRE 5TOS|Sociales
+40001640|Gabriela Flores|91.74|Tarde|15|CEPRE 5TOS|Biomedicas
+40001641|Ana Perez|5.21|Manana|10|Extraordinario|Ingenierias
+40001642|Luis Torres|60.33|Manana|17|CEPRE 5TOS|Ingenierias
+40001643|Carlos Diaz|76.78|Tarde|10|Ordinario|Sociales
+40001644|Maria Lopez|61.81|Tarde|6|CEPRE 5TOS|Biomedicas
+40001645|Juan Soto|49.39|Manana|42|Ordinario|Ingenierias
+40001646|Carla Flores|12.98|Manana|44|CEPREUNSA|Sociales
+40001647|Pedro Quispe|44.13|Tarde|7|CEPRE 5TOS|Ingenierias
+40001648|Lucia Ramos|27.79|Manana|6|CEPRE 5TOS|Biomedicas
+40001649|Diego Mamani|70.23|Manana|8|CEPRE 5TOS|Ingenierias
+40001650|Sofia Vargas|5.59|Tarde|43|Ordinario|Ingenierias
+40001651|Jose Condori|93.37|Tarde|29|Extraordinario|Biomedicas
+40001652|Valeria Huaman|85.85|Manana|1|CEPRE 5TOS|Biomedicas
+40001653|Miguel Apaza|38.18|Tarde|21|Ordinario|Sociales
+40001654|Daniela Choque|93.57|Tarde|36|Ordinario|Ingenierias
+40001655|Andres Paredes|90.13|Manana|6|CEPRE 5TOS|Sociales
+40001656|Camila Nina|31.23|Manana|30|CEPREUNSA|Biomedicas
+40001657|Jorge Calla|68.81|Manana|1|CEPREUNSA|Ingenierias
+40001658|Fernanda Lima|67.21|Tarde|16|CEPREUNSA|Ingenierias
+40001659|Alonso Ticona|84.71|Manana|27|Extraordinario|Biomedicas
+40001660|Gabriela Flores|85.09|Tarde|41|CEPREUNSA|Ingenierias
+40001661|Ana Perez|47.28|Manana|24|CEPRE 5TOS|Sociales
+40001662|Luis Torres|60.89|Manana|43|Extraordinario|Biomedicas
+40001663|Carlos Diaz|38.97|Manana|39|Extraordinario|Ingenierias
+40001664|Maria Lopez|38.86|Tarde|35|Extraordinario|Sociales
+40001665|Juan Soto|28.25|Manana|1|Ordinario|Ingenierias
+40001666|Carla Flores|42.32|Tarde|24|CEPRE 5TOS|Biomedicas
+40001667|Pedro Quispe|53.26|Manana|36|Ordinario|Ingenierias
+40001668|Lucia Ramos|51.64|Tarde|5|CEPREUNSA|Biomedicas
+40001669|Diego Mamani|98.22|Manana|15|Ordinario|Sociales
+40001670|Sofia Vargas|89.73|Manana|10|Ordinario|Ingenierias
+40001671|Jose Condori|78.96|Tarde|24|Ordinario|Sociales
+40001672|Valeria Huaman|17.69|Manana|31|Extraordinario|Ingenierias
+40001673|Miguel Apaza|33.78|Manana|20|Extraordinario|Ingenierias
+40001674|Daniela Choque|81.20|Manana|43|Extraordinario|Sociales
+40001675|Andres Paredes|80.68|Manana|22|CEPRE 5TOS|Ingenierias
+40001676|Camila Nina|34.56|Tarde|31|Extraordinario|Biomedicas
+40001677|Jorge Calla|34.01|Manana|43|CEPRE 5TOS|Sociales
+40001678|Fernanda Lima|57.11|Manana|24|Extraordinario|Ingenierias
+40001679|Alonso Ticona|55.26|Tarde|26|CEPRE 5TOS|Ingenierias
+40001680|Gabriela Flores|44.83|Manana|2|CEPREUNSA|Sociales
+40001681|Ana Perez|89.73|Tarde|18|Extraordinario|Sociales
+40001682|Luis Torres|4.13|Tarde|39|CEPREUNSA|Ingenierias
+40001683|Carlos Diaz|31.91|Tarde|2|Extraordinario|Ingenierias
+40001684|Maria Lopez|51.80|Manana|27|CEPREUNSA|Biomedicas
+40001685|Juan Soto|66.66|Manana|35|CEPREUNSA|Sociales
+40001686|Carla Flores|22.70|Tarde|11|CEPREUNSA|Ingenierias
+40001687|Pedro Quispe|66.62|Tarde|45|CEPRE 5TOS|Biomedicas
+40001688|Lucia Ramos|47.28|Manana|24|CEPRE 5TOS|Biomedicas
+40001689|Diego Mamani|72.94|Manana|11|Ordinario|Ingenierias
+40001690|Sofia Vargas|21.21|Tarde|15|Extraordinario|Sociales
+40001691|Jose Condori|83.63|Tarde|41|Ordinario|Biomedicas
+40001692|Valeria Huaman|81.19|Manana|17|Extraordinario|Sociales
+40001693|Miguel Apaza|21.59|Manana|40|Ordinario|Sociales
+40001694|Daniela Choque|38.04|Tarde|25|CEPREUNSA|Sociales
+40001695|Andres Paredes|6.17|Manana|10|CEPREUNSA|Biomedicas
+40001696|Camila Nina|98.88|Manana|33|Ordinario|Ingenierias
+40001697|Jorge Calla|51.07|Tarde|21|Ordinario|Ingenierias
+40001698|Fernanda Lima|23.29|Tarde|33|CEPRE 5TOS|Biomedicas
+40001699|Alonso Ticona|64.52|Tarde|26|Ordinario|Sociales
+40001700|Gabriela Flores|88.73|Manana|26|Ordinario|Ingenierias
+40001701|Ana Perez|90.65|Manana|32|CEPRE 5TOS|Ingenierias
+40001702|Luis Torres|72.30|Manana|3|Extraordinario|Biomedicas
+40001703|Carlos Diaz|11.81|Tarde|2|Ordinario|Biomedicas
+40001704|Maria Lopez|18.96|Tarde|44|Extraordinario|Ingenierias
+40001705|Juan Soto|96.55|Manana|28|CEPRE 5TOS|Sociales
+40001706|Carla Flores|1.63|Tarde|22|CEPREUNSA|Ingenierias
+40001707|Pedro Quispe|93.40|Manana|6|CEPRE 5TOS|Ingenierias
+40001708|Lucia Ramos|74.42|Manana|37|Extraordinario|Ingenierias
+40001709|Diego Mamani|66.99|Manana|42|CEPRE 5TOS|Biomedicas
+40001710|Sofia Vargas|47.35|Tarde|32|CEPRE 5TOS|Biomedicas
+40001711|Jose Condori|11.84|Tarde|15|CEPREUNSA|Ingenierias
+40001712|Valeria Huaman|89.15|Manana|4|Extraordinario|Biomedicas
+40001713|Miguel Apaza|50.92|Manana|17|Ordinario|Ingenierias
+40001714|Daniela Choque|45.49|Manana|41|Ordinario|Biomedicas
+40001715|Andres Paredes|87.73|Manana|18|Ordinario|Biomedicas
+40001716|Camila Nina|90.96|Manana|10|Ordinario|Ingenierias
+40001717|Jorge Calla|28.42|Manana|41|Extraordinario|Ingenierias
+40001718|Fernanda Lima|92.56|Manana|29|CEPREUNSA|Sociales
+40001719|Alonso Ticona|80.61|Tarde|23|Ordinario|Sociales
+40001720|Gabriela Flores|6.31|Tarde|38|CEPREUNSA|Sociales
+40001721|Ana Perez|99.55|Tarde|25|Extraordinario|Sociales
+40001722|Luis Torres|72.01|Manana|3|Ordinario|Ingenierias
+40001723|Carlos Diaz|88.62|Manana|36|CEPRE 5TOS|Sociales
+40001724|Maria Lopez|50.13|Manana|8|CEPRE 5TOS|Ingenierias
+40001725|Juan Soto|70.69|Manana|44|CEPREUNSA|Sociales
+40001726|Carla Flores|38.89|Manana|27|CEPRE 5TOS|Biomedicas
+40001727|Pedro Quispe|42.34|Manana|33|CEPRE 5TOS|Biomedicas
+40001728|Lucia Ramos|80.62|Tarde|26|Ordinario|Ingenierias
+40001729|Diego Mamani|75.30|Tarde|43|CEPRE 5TOS|Ingenierias
+40001730|Sofia Vargas|96.76|Tarde|45|CEPREUNSA|Biomedicas
+40001731|Jose Condori|73.67|Manana|31|CEPREUNSA|Ingenierias
+40001732|Valeria Huaman|95.53|Tarde|12|Ordinario|Biomedicas
+40001733|Miguel Apaza|4.80|Manana|45|CEPREUNSA|Ingenierias
+40001734|Daniela Choque|4.68|Manana|2|CEPREUNSA|Ingenierias
+40001735|Andres Paredes|70.91|Manana|23|CEPREUNSA|Biomedicas
+40001736|Camila Nina|9.84|Tarde|10|CEPREUNSA|Ingenierias
+40001737|Jorge Calla|20.44|Manana|16|CEPREUNSA|Sociales
+40001738|Fernanda Lima|74.64|Manana|35|Extraordinario|Ingenierias
+40001739|Alonso Ticona|44.88|Tarde|40|Extraordinario|Sociales
+40001740|Gabriela Flores|59.42|Tarde|22|Extraordinario|Biomedicas
+40001741|Ana Perez|89.57|Tarde|15|Ordinario|Biomedicas
+40001742|Luis Torres|83.99|Manana|23|Ordinario|Sociales
+40001743|Carlos Diaz|74.75|Tarde|14|Extraordinario|Biomedicas
+40001744|Maria Lopez|7.86|Manana|29|CEPREUNSA|Sociales
+40001745|Juan Soto|46.11|Tarde|35|CEPRE 5TOS|Sociales
+40001746|Carla Flores|73.61|Tarde|39|Extraordinario|Biomedicas
+40001747|Pedro Quispe|72.69|Manana|3|Extraordinario|Sociales
+40001748|Lucia Ramos|18.15|Manana|20|Ordinario|Ingenierias
+40001749|Diego Mamani|68.95|Manana|12|CEPREUNSA|Biomedicas
+40001750|Sofia Vargas|17.52|Manana|3|Extraordinario|Biomedicas
+40001751|Jose Condori|51.66|Tarde|5|Extraordinario|Biomedicas
+40001752|Valeria Huaman|36.33|Tarde|42|CEPRE 5TOS|Biomedicas
+40001753|Miguel Apaza|48.63|Manana|28|CEPRE 5TOS|Sociales
+40001754|Daniela Choque|22.89|Manana|42|Ordinario|Biomedicas
+40001755|Andres Paredes|13.65|Manana|34|Ordinario|Sociales
+40001756|Camila Nina|50.92|Manana|6|CEPREUNSA|Biomedicas
+40001757|Jorge Calla|56.48|Manana|24|Extraordinario|Sociales
+40001758|Fernanda Lima|89.08|Tarde|25|CEPREUNSA|Ingenierias
+40001759|Alonso Ticona|88.94|Manana|41|Ordinario|Ingenierias
+40001760|Gabriela Flores|1.61|Manana|38|CEPREUNSA|Ingenierias
+40001761|Ana Perez|21.69|Manana|27|Ordinario|Sociales
+40001762|Luis Torres|87.02|Manana|8|CEPREUNSA|Sociales
+40001763|Carlos Diaz|3.07|Manana|13|CEPRE 5TOS|Ingenierias
+40001764|Maria Lopez|32.50|Tarde|28|Extraordinario|Ingenierias
+40001765|Juan Soto|12.37|Manana|26|Extraordinario|Biomedicas
+40001766|Carla Flores|18.02|Tarde|39|CEPRE 5TOS|Ingenierias
+40001767|Pedro Quispe|52.66|Tarde|22|CEPRE 5TOS|Biomedicas
+40001768|Lucia Ramos|8.51|Tarde|22|CEPREUNSA|Ingenierias
+40001769|Diego Mamani|95.65|Manana|43|CEPREUNSA|Biomedicas
+40001770|Sofia Vargas|52.94|Tarde|11|Ordinario|Ingenierias
+40001771|Jose Condori|86.88|Tarde|26|CEPRE 5TOS|Ingenierias
+40001772|Valeria Huaman|91.32|Manana|38|Extraordinario|Sociales
+40001773|Miguel Apaza|1.63|Tarde|39|CEPRE 5TOS|Sociales
+40001774|Daniela Choque|50.25|Manana|14|CEPREUNSA|Ingenierias
+40001775|Andres Paredes|8.12|Tarde|39|Extraordinario|Ingenierias
+40001776|Camila Nina|74.60|Tarde|32|CEPREUNSA|Sociales
+40001777|Jorge Calla|73.69|Tarde|23|CEPREUNSA|Sociales
+40001778|Fernanda Lima|34.91|Tarde|18|CEPRE 5TOS|Sociales
+40001779|Alonso Ticona|20.89|Manana|16|Ordinario|Ingenierias
+40001780|Gabriela Flores|35.73|Manana|13|Ordinario|Ingenierias
+40001781|Ana Perez|60.96|Manana|36|CEPREUNSA|Sociales
+40001782|Luis Torres|1.00|Tarde|22|CEPREUNSA|Sociales
+40001783|Carlos Diaz|69.62|Tarde|31|CEPRE 5TOS|Sociales
+40001784|Maria Lopez|33.21|Manana|41|CEPREUNSA|Sociales
+40001785|Juan Soto|20.43|Tarde|29|Extraordinario|Ingenierias
+40001786|Carla Flores|95.99|Manana|34|Ordinario|Biomedicas
+40001787|Pedro Quispe|10.19|Tarde|14|Ordinario|Ingenierias
+40001788|Lucia Ramos|57.42|Manana|3|Extraordinario|Biomedicas
+40001789|Diego Mamani|28.55|Manana|16|CEPREUNSA|Ingenierias
+40001790|Sofia Vargas|42.06|Manana|25|Ordinario|Ingenierias
+40001791|Jose Condori|87.51|Manana|24|Extraordinario|Ingenierias
+40001792|Valeria Huaman|83.31|Manana|23|Ordinario|Biomedicas
+40001793|Miguel Apaza|14.48|Manana|25|CEPRE 5TOS|Sociales
+40001794|Daniela Choque|94.35|Tarde|1|Ordinario|Ingenierias
+40001795|Andres Paredes|9.22|Manana|45|Extraordinario|Sociales
+40001796|Camila Nina|30.18|Manana|5|Ordinario|Sociales
+40001797|Jorge Calla|17.26|Manana|14|Extraordinario|Sociales
+40001798|Fernanda Lima|63.05|Manana|8|Ordinario|Ingenierias
+40001799|Alonso Ticona|39.60|Manana|13|CEPRE 5TOS|Sociales
+40001800|Gabriela Flores|15.27|Tarde|14|CEPREUNSA|Ingenierias
+40001801|Ana Perez|44.65|Tarde|17|Ordinario|Sociales
+40001802|Luis Torres|2.67|Tarde|34|CEPREUNSA|Sociales
+40001803|Carlos Diaz|80.88|Manana|27|CEPREUNSA|Biomedicas
+40001804|Maria Lopez|15.29|Tarde|28|Ordinario|Biomedicas
+40001805|Juan Soto|24.55|Manana|8|CEPRE 5TOS|Ingenierias
+40001806|Carla Flores|2.22|Manana|16|Extraordinario|Ingenierias
+40001807|Pedro Quispe|96.64|Manana|36|CEPRE 5TOS|Biomedicas
+40001808|Lucia Ramos|94.55|Manana|36|Ordinario|Ingenierias
+40001809|Diego Mamani|62.96|Tarde|11|CEPREUNSA|Ingenierias
+40001810|Sofia Vargas|60.84|Manana|9|CEPREUNSA|Biomedicas
+40001811|Jose Condori|79.11|Tarde|18|Ordinario|Ingenierias
+40001812|Valeria Huaman|98.09|Tarde|44|Ordinario|Sociales
+40001813|Miguel Apaza|18.69|Tarde|5|Extraordinario|Biomedicas
+40001814|Daniela Choque|63.03|Manana|12|CEPREUNSA|Ingenierias
+40001815|Andres Paredes|60.03|Tarde|31|Ordinario|Biomedicas
+40001816|Camila Nina|34.24|Manana|26|Extraordinario|Sociales
+40001817|Jorge Calla|22.44|Manana|31|CEPRE 5TOS|Biomedicas
+40001818|Fernanda Lima|79.68|Manana|11|Ordinario|Biomedicas
+40001819|Alonso Ticona|2.36|Manana|44|CEPRE 5TOS|Ingenierias
+40001820|Gabriela Flores|82.00|Manana|14|Ordinario|Sociales
+40001821|Ana Perez|91.13|Manana|40|Ordinario|Sociales
+40001822|Luis Torres|27.20|Manana|41|Extraordinario|Ingenierias
+40001823|Carlos Diaz|81.77|Tarde|23|CEPRE 5TOS|Sociales
+40001824|Maria Lopez|89.41|Manana|42|Extraordinario|Ingenierias
+40001825|Juan Soto|91.63|Manana|43|Extraordinario|Sociales
+40001826|Carla Flores|2.72|Tarde|3|Extraordinario|Biomedicas
+40001827|Pedro Quispe|85.41|Tarde|5|Extraordinario|Sociales
+40001828|Lucia Ramos|15.50|Manana|5|CEPREUNSA|Sociales
+40001829|Diego Mamani|63.16|Tarde|25|CEPREUNSA|Biomedicas
+40001830|Sofia Vargas|91.85|Manana|8|Ordinario|Ingenierias
+40001831|Jose Condori|3.19|Tarde|6|CEPRE 5TOS|Ingenierias
+40001832|Valeria Huaman|93.29|Manana|10|CEPREUNSA|Sociales
+40001833|Miguel Apaza|38.56|Tarde|17|CEPRE 5TOS|Biomedicas
+40001834|Daniela Choque|27.78|Tarde|42|CEPRE 5TOS|Biomedicas
+40001835|Andres Paredes|25.24|Tarde|6|Extraordinario|Sociales
+40001836|Camila Nina|68.22|Manana|45|Extraordinario|Ingenierias
+40001837|Jorge Calla|72.18|Manana|12|Ordinario|Biomedicas
+40001838|Fernanda Lima|9.11|Manana|37|Ordinario|Biomedicas
+40001839|Alonso Ticona|97.58|Manana|5|CEPREUNSA|Ingenierias
+40001840|Gabriela Flores|86.98|Manana|10|CEPREUNSA|Biomedicas
+40001841|Ana Perez|73.85|Tarde|8|CEPRE 5TOS|Biomedicas
+40001842|Luis Torres|57.11|Manana|22|CEPREUNSA|Biomedicas
+40001843|Carlos Diaz|96.87|Manana|13|CEPREUNSA|Sociales
+40001844|Maria Lopez|2.95|Manana|33|Extraordinario|Ingenierias
+40001845|Juan Soto|15.99|Tarde|18|Ordinario|Sociales
+40001846|Carla Flores|12.21|Manana|36|Ordinario|Ingenierias
+40001847|Pedro Quispe|52.78|Manana|32|CEPRE 5TOS|Sociales
+40001848|Lucia Ramos|50.89|Tarde|27|Extraordinario|Ingenierias
+40001849|Diego Mamani|51.63|Tarde|5|CEPREUNSA|Biomedicas
+40001850|Sofia Vargas|60.94|Tarde|30|Extraordinario|Ingenierias
+40001851|Jose Condori|94.09|Tarde|32|CEPREUNSA|Ingenierias
+40001852|Valeria Huaman|64.70|Tarde|28|Ordinario|Biomedicas
+40001853|Miguel Apaza|49.94|Manana|26|CEPRE 5TOS|Biomedicas
+40001854|Daniela Choque|6.50|Tarde|27|Extraordinario|Biomedicas
+40001855|Andres Paredes|71.45|Tarde|41|CEPRE 5TOS|Sociales
+40001856|Camila Nina|14.63|Tarde|34|Ordinario|Sociales
+40001857|Jorge Calla|66.80|Tarde|28|Extraordinario|Ingenierias
+40001858|Fernanda Lima|91.94|Manana|39|CEPREUNSA|Ingenierias
+40001859|Alonso Ticona|90.61|Tarde|3|CEPRE 5TOS|Sociales
+40001860|Gabriela Flores|49.06|Tarde|10|Ordinario|Biomedicas
+40001861|Ana Perez|17.35|Manana|21|Ordinario|Ingenierias
+40001862|Luis Torres|60.47|Tarde|14|Extraordinario|Biomedicas
+40001863|Carlos Diaz|0.24|Manana|11|Ordinario|Ingenierias
+40001864|Maria Lopez|30.61|Tarde|6|Ordinario|Ingenierias
+40001865|Juan Soto|43.31|Manana|33|Ordinario|Sociales
+40001866|Carla Flores|54.88|Manana|37|CEPRE 5TOS|Sociales
+40001867|Pedro Quispe|93.29|Tarde|5|Ordinario|Sociales
+40001868|Lucia Ramos|81.99|Tarde|41|CEPRE 5TOS|Ingenierias
+40001869|Diego Mamani|13.28|Manana|19|CEPRE 5TOS|Biomedicas
+40001870|Sofia Vargas|10.90|Manana|14|Extraordinario|Sociales
+40001871|Jose Condori|81.32|Tarde|3|Ordinario|Ingenierias
+40001872|Valeria Huaman|59.56|Tarde|16|Ordinario|Biomedicas
+40001873|Miguel Apaza|51.88|Tarde|14|Ordinario|Biomedicas
+40001874|Daniela Choque|44.08|Manana|41|Ordinario|Sociales
+40001875|Andres Paredes|86.39|Manana|45|CEPRE 5TOS|Biomedicas
+40001876|Camila Nina|88.12|Tarde|6|CEPREUNSA|Sociales
+40001877|Jorge Calla|51.10|Manana|30|CEPREUNSA|Ingenierias
+40001878|Fernanda Lima|83.67|Manana|9|CEPRE 5TOS|Biomedicas
+40001879|Alonso Ticona|82.38|Manana|1|Extraordinario|Biomedicas
+40001880|Gabriela Flores|96.56|Manana|19|Extraordinario|Sociales
+40001881|Ana Perez|0.07|Manana|27|Extraordinario|Ingenierias
+40001882|Luis Torres|54.55|Tarde|34|CEPREUNSA|Sociales
+40001883|Carlos Diaz|85.14|Manana|4|Extraordinario|Sociales
+40001884|Maria Lopez|30.90|Tarde|8|Extraordinario|Sociales
+40001885|Juan Soto|47.44|Tarde|17|Extraordinario|Sociales
+40001886|Carla Flores|26.87|Tarde|8|Extraordinario|Ingenierias
+40001887|Pedro Quispe|71.08|Manana|45|Extraordinario|Ingenierias
+40001888|Lucia Ramos|82.01|Tarde|13|Extraordinario|Ingenierias
+40001889|Diego Mamani|97.76|Manana|11|Extraordinario|Ingenierias
+40001890|Sofia Vargas|15.70|Tarde|5|CEPREUNSA|Sociales
+40001891|Jose Condori|2.44|Manana|34|CEPREUNSA|Ingenierias
+40001892|Valeria Huaman|25.52|Tarde|18|CEPREUNSA|Ingenierias
+40001893|Miguel Apaza|22.77|Tarde|8|CEPREUNSA|Sociales
+40001894|Daniela Choque|60.93|Tarde|45|CEPREUNSA|Biomedicas
+40001895|Andres Paredes|92.30|Manana|25|Extraordinario|Sociales
+40001896|Camila Nina|70.73|Tarde|40|CEPRE 5TOS|Sociales
+40001897|Jorge Calla|7.99|Tarde|45|CEPRE 5TOS|Sociales
+40001898|Fernanda Lima|23.23|Tarde|33|CEPREUNSA|Ingenierias
+40001899|Alonso Ticona|48.61|Tarde|35|CEPREUNSA|Sociales
+40001900|Gabriela Flores|83.03|Tarde|21|CEPRE 5TOS|Ingenierias
+40001901|Ana Perez|62.86|Tarde|7|Extraordinario|Sociales
+40001902|Luis Torres|83.07|Tarde|11|CEPRE 5TOS|Biomedicas
+40001903|Carlos Diaz|86.40|Tarde|20|CEPREUNSA|Sociales
+40001904|Maria Lopez|96.65|Tarde|13|Extraordinario|Sociales
+40001905|Juan Soto|15.65|Tarde|24|CEPRE 5TOS|Sociales
+40001906|Carla Flores|33.70|Manana|21|CEPRE 5TOS|Sociales
+40001907|Pedro Quispe|72.49|Tarde|41|Ordinario|Sociales
+40001908|Lucia Ramos|98.12|Manana|36|CEPREUNSA|Sociales
+40001909|Diego Mamani|62.75|Tarde|36|CEPRE 5TOS|Biomedicas
+40001910|Sofia Vargas|78.79|Manana|18|CEPREUNSA|Sociales
+40001911|Jose Condori|68.12|Manana|28|Ordinario|Biomedicas
+40001912|Valeria Huaman|3.62|Tarde|17|Extraordinario|Biomedicas
+40001913|Miguel Apaza|92.92|Manana|5|CEPREUNSA|Ingenierias
+40001914|Daniela Choque|93.04|Manana|20|CEPREUNSA|Sociales
+40001915|Andres Paredes|57.40|Tarde|5|CEPREUNSA|Biomedicas
+40001916|Camila Nina|91.27|Tarde|45|Ordinario|Biomedicas
+40001917|Jorge Calla|55.25|Tarde|36|CEPRE 5TOS|Biomedicas
+40001918|Fernanda Lima|30.86|Manana|3|CEPREUNSA|Sociales
+40001919|Alonso Ticona|15.73|Manana|6|Extraordinario|Biomedicas
+40001920|Gabriela Flores|63.42|Manana|15|CEPRE 5TOS|Biomedicas
+40001921|Ana Perez|47.14|Manana|27|Extraordinario|Sociales
+40001922|Luis Torres|90.13|Manana|42|Extraordinario|Sociales
+40001923|Carlos Diaz|20.55|Manana|18|Extraordinario|Biomedicas
+40001924|Maria Lopez|68.06|Manana|39|Ordinario|Ingenierias
+40001925|Juan Soto|15.11|Manana|41|Extraordinario|Ingenierias
+40001926|Carla Flores|78.54|Tarde|7|CEPREUNSA|Biomedicas
+40001927|Pedro Quispe|9.87|Manana|9|CEPREUNSA|Ingenierias
+40001928|Lucia Ramos|50.56|Tarde|6|Ordinario|Biomedicas
+40001929|Diego Mamani|41.97|Tarde|35|CEPREUNSA|Ingenierias
+40001930|Sofia Vargas|18.29|Tarde|14|CEPRE 5TOS|Biomedicas
+40001931|Jose Condori|60.13|Manana|19|Ordinario|Biomedicas
+40001932|Valeria Huaman|56.54|Manana|12|CEPRE 5TOS|Ingenierias
+40001933|Miguel Apaza|24.94|Manana|37|Ordinario|Sociales
+40001934|Daniela Choque|62.53|Manana|39|CEPREUNSA|Biomedicas
+40001935|Andres Paredes|31.41|Manana|5|CEPREUNSA|Biomedicas
+40001936|Camila Nina|92.27|Tarde|43|CEPRE 5TOS|Biomedicas
+40001937|Jorge Calla|91.87|Manana|21|CEPREUNSA|Sociales
+40001938|Fernanda Lima|44.48|Tarde|9|Ordinario|Biomedicas
+40001939|Alonso Ticona|60.43|Tarde|24|Ordinario|Biomedicas
+40001940|Gabriela Flores|14.80|Manana|18|Ordinario|Ingenierias
+40001941|Ana Perez|74.95|Tarde|39|Extraordinario|Ingenierias
+40001942|Luis Torres|74.36|Tarde|13|Extraordinario|Biomedicas
+40001943|Carlos Diaz|50.28|Manana|31|CEPRE 5TOS|Biomedicas
+40001944|Maria Lopez|31.06|Tarde|32|Ordinario|Biomedicas
+40001945|Juan Soto|0.96|Manana|24|CEPRE 5TOS|Sociales
+40001946|Carla Flores|9.94|Manana|6|Ordinario|Biomedicas
+40001947|Pedro Quispe|58.45|Tarde|30|Extraordinario|Sociales
+40001948|Lucia Ramos|98.25|Tarde|10|CEPRE 5TOS|Biomedicas
+40001949|Diego Mamani|43.05|Tarde|44|CEPRE 5TOS|Biomedicas
+40001950|Sofia Vargas|34.34|Manana|13|Extraordinario|Sociales
+40001951|Jose Condori|66.17|Manana|44|Ordinario|Biomedicas
+40001952|Valeria Huaman|76.26|Tarde|21|CEPRE 5TOS|Biomedicas
+40001953|Miguel Apaza|70.37|Tarde|34|Ordinario|Sociales
+40001954|Daniela Choque|11.46|Tarde|37|CEPREUNSA|Biomedicas
+40001955|Andres Paredes|14.23|Tarde|16|CEPREUNSA|Biomedicas
+40001956|Camila Nina|39.03|Tarde|24|Ordinario|Ingenierias
+40001957|Jorge Calla|87.59|Manana|37|Extraordinario|Biomedicas
+40001958|Fernanda Lima|19.61|Tarde|39|Extraordinario|Ingenierias
+40001959|Alonso Ticona|24.56|Tarde|20|CEPRE 5TOS|Sociales
+40001960|Gabriela Flores|20.44|Tarde|24|CEPREUNSA|Ingenierias
+40001961|Ana Perez|77.24|Tarde|24|Extraordinario|Biomedicas
+40001962|Luis Torres|32.04|Tarde|41|CEPREUNSA|Sociales
+40001963|Carlos Diaz|11.73|Tarde|35|Extraordinario|Biomedicas
+40001964|Maria Lopez|8.23|Tarde|17|CEPRE 5TOS|Ingenierias
+40001965|Juan Soto|60.63|Manana|14|CEPRE 5TOS|Biomedicas
+40001966|Carla Flores|0.18|Manana|42|Extraordinario|Biomedicas
+40001967|Pedro Quispe|14.44|Tarde|4|Ordinario|Biomedicas
+40001968|Lucia Ramos|4.87|Tarde|17|CEPREUNSA|Ingenierias
+40001969|Diego Mamani|59.66|Manana|25|CEPREUNSA|Ingenierias
+40001970|Sofia Vargas|14.66|Tarde|9|Extraordinario|Sociales
+40001971|Jose Condori|31.89|Manana|40|Extraordinario|Biomedicas
+40001972|Valeria Huaman|71.04|Manana|23|CEPREUNSA|Biomedicas
+40001973|Miguel Apaza|28.20|Manana|34|CEPRE 5TOS|Ingenierias
+40001974|Daniela Choque|52.55|Tarde|7|Extraordinario|Sociales
+40001975|Andres Paredes|40.71|Manana|1|Ordinario|Ingenierias
+40001976|Camila Nina|48.58|Tarde|30|CEPREUNSA|Sociales
+40001977|Jorge Calla|55.14|Manana|43|CEPREUNSA|Ingenierias
+40001978|Fernanda Lima|24.15|Tarde|26|CEPREUNSA|Biomedicas
+40001979|Alonso Ticona|52.91|Tarde|21|Ordinario|Ingenierias
+40001980|Gabriela Flores|53.45|Manana|34|CEPRE 5TOS|Ingenierias
+40001981|Ana Perez|70.70|Tarde|5|CEPREUNSA|Biomedicas
+40001982|Luis Torres|32.92|Tarde|27|Extraordinario|Ingenierias
+40001983|Carlos Diaz|43.74|Manana|24|CEPREUNSA|Ingenierias
+40001984|Maria Lopez|9.81|Tarde|6|Extraordinario|Biomedicas
+40001985|Juan Soto|69.26|Tarde|35|Extraordinario|Sociales
+40001986|Carla Flores|13.56|Tarde|16|CEPRE 5TOS|Sociales
+40001987|Pedro Quispe|29.14|Tarde|27|CEPREUNSA|Sociales
+40001988|Lucia Ramos|54.44|Tarde|17|Ordinario|Sociales
+40001989|Diego Mamani|40.66|Manana|31|CEPREUNSA|Ingenierias
+40001990|Sofia Vargas|0.61|Manana|36|CEPRE 5TOS|Sociales
+40001991|Jose Condori|12.04|Manana|26|CEPREUNSA|Biomedicas
+40001992|Valeria Huaman|77.42|Manana|21|Extraordinario|Ingenierias
+40001993|Miguel Apaza|22.70|Tarde|44|CEPRE 5TOS|Ingenierias
+40001994|Daniela Choque|26.34|Manana|24|Ordinario|Ingenierias
+40001995|Andres Paredes|41.07|Manana|29|CEPRE 5TOS|Biomedicas
+40001996|Camila Nina|13.58|Manana|15|CEPREUNSA|Sociales
+40001997|Jorge Calla|94.88|Tarde|22|CEPREUNSA|Sociales
+40001998|Fernanda Lima|49.68|Tarde|29|Extraordinario|Biomedicas
+40001999|Alonso Ticona|87.69|Tarde|18|Ordinario|Biomedicas
+40002000|Gabriela Flores|79.68|Tarde|4|CEPREUNSA|Ingenierias
