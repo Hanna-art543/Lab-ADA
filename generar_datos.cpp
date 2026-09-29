@@ -30,7 +30,7 @@ const vector<string> NOMBRES = {
 const vector<string> PROCESOS = { "Ordinario", "CEPREUNSA", "Extraordinario", "CEPRE 5TOS" };
 const vector<string> AREAS    = { "Ingenierias", "Biomedicas", "Sociales" };
 
-const double PUNTAJE_MAX      = 100.0;   // escala de 0 a 20
+const double PUNTAJE_MAX      = 100.0;   // escala de 0 a 100
 const int    ALUMNOS_POR_AULA = 45;
 const unsigned SEMILLA        = 2024;   // semilla fija: los archivos son reproducibles
 
