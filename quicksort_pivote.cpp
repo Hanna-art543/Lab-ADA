@@ -8,36 +8,42 @@ using namespace std;
 
 const int MAX = 4000;
 
-int particion(float a[], int ini, int fin) {
+
+void particion(float a[], int ini, int fin, int &lt, int &gt) {
     float pivote = a[fin];
-    int i = ini - 1;
+    lt = ini;
+    gt = ini;
     for (int j = ini; j < fin; j++) {
-        if (a[j] <= pivote) {
-            i++;
-            swap(a[i], a[j]);
+        if (a[j] < pivote) {
+            swap(a[j], a[gt]);
+            swap(a[gt], a[lt]);
+            lt++;
+            gt++;
+        } else if (a[j] == pivote) {
+            swap(a[j], a[gt]);
+            gt++;
         }
     }
-    swap(a[i + 1], a[fin]);
-    return i + 1;
+    swap(a[gt], a[fin]);
 }
-
-// pivote = primer elemento
 void quicksortFijo(float a[], int ini, int fin) {
     if (ini < fin) {
         swap(a[ini], a[fin]);
-        int p = particion(a, ini, fin);
-        quicksortFijo(a, ini, p - 1);
-        quicksortFijo(a, p + 1, fin);
+        int lt, gt;
+        particion(a, ini, fin, lt, gt);
+        quicksortFijo(a, ini, lt - 1);
+        quicksortFijo(a, gt + 1, fin);
     }
 }
 
 void quicksortAleatorio(float a[], int ini, int fin) {
     if (ini < fin) {
-        int r = ini + rand() % (fin - ini + 1); // pivote al azar
+        int r = ini + rand() % (fin - ini + 1); 
         swap(a[r], a[fin]);
-        int p = particion(a, ini, fin);
-        quicksortAleatorio(a, ini, p - 1);
-        quicksortAleatorio(a, p + 1, fin);
+        int lt, gt;
+        particion(a, ini, fin, lt, gt);
+        quicksortAleatorio(a, ini, lt - 1);
+        quicksortAleatorio(a, gt + 1, fin);
     }
 }
 
